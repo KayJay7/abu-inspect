@@ -1,0 +1,54 @@
+agent5: 2022/06/17 09:07:41 Creating memory
+agent5: 2022/06/17 09:07:41 Creating executer
+agent3: 2022/06/17 09:07:44 Creating memory
+agent9: 2022/06/17 09:07:45 Creating memory
+agent1: 2022/06/17 09:07:43 Creating memory
+agent6: 2022/06/17 09:07:46 Creating memory
+agent0: 2022/06/17 09:07:42 Creating memory
+coordinator: 2022/06/17 09:07:39 Starting listener
+coordinator: 2022/06/17 09:07:39 Starting API
+coordinator: 2022/06/17 09:07:40 New agent connected from 172.31.0.3:49036
+coordinator: 2022/06/17 09:07:41 New agent connected from 172.31.0.4:47698
+coordinator: 2022/06/17 09:07:42 New agent connected from 172.31.0.5:37506
+coordinator: 2022/06/17 09:07:42 New agent connected from 172.31.0.6:46092
+coordinator: 2022/06/17 09:07:43 New agent connected from 172.31.0.7:45444
+coordinator: 2022/06/17 09:07:44 New agent connected from 172.31.0.8:60994
+coordinator: 2022/06/17 09:07:44 New agent connected from 172.31.0.9:32884
+coordinator: 2022/06/17 09:07:45 New agent connected from 172.31.0.10:56960
+coordinator: 2022/06/17 09:07:45 New agent connected from 172.31.0.11:50166
+agent5: 2022/06/17 09:07:41 Connecting to coordinator
+agent5: 2022/06/17 09:07:41 Starting main loop
+agent3: 2022/06/17 09:07:44 Creating executer
+agent3: 2022/06/17 09:07:44 Connecting to coordinator
+agent3: 2022/06/17 09:07:44 Starting main loop
+agent9: 2022/06/17 09:07:45 Creating executer
+agent9: 2022/06/17 09:07:45 Connecting to coordinator
+agent9: 2022/06/17 09:07:45 Starting main loop
+agent1: 2022/06/17 09:07:43 Creating executer
+agent1: 2022/06/17 09:07:43 Connecting to coordinator
+agent4: 2022/06/17 09:07:43 Creating memory
+agent0: 2022/06/17 09:07:42 Creating executer
+agent4: 2022/06/17 09:07:43 Creating executer
+agent0: 2022/06/17 09:07:42 Connecting to coordinator
+agent1: 2022/06/17 09:07:43 Starting main loop
+agent6: 2022/06/17 09:07:46 Creating executer
+agent2: 2022/06/17 09:07:42 Creating memory
+agent4: 2022/06/17 09:07:44 Connecting to coordinator
+agent0: 2022/06/17 09:07:42 Starting main loop
+agent4: 2022/06/17 09:07:44 Starting main loop
+agent2: 2022/06/17 09:07:42 Creating executer
+agent2: 2022/06/17 09:07:42 Connecting to coordinator
+agent2: 2022/06/17 09:07:42 Starting main loop
+agent7: 2022/06/17 09:07:45 Creating memory
+agent7: 2022/06/17 09:07:45 Creating executer
+agent7: 2022/06/17 09:07:45 Connecting to coordinator
+agent7: 2022/06/17 09:07:45 Starting main loop
+agent8: 2022/06/17 09:07:40 Creating memory
+agent8: 2022/06/17 09:07:40 Creating executer
+agent8: 2022/06/17 09:07:40 Connecting to coordinator
+agent8: 2022/06/17 09:07:40 Starting main loop
+agent6: 2022/06/17 09:07:46 Connecting to coordinator
+coordinator: 2022/06/17 09:07:46 New agent connected from 172.31.0.12:43760
+agent6: 2022/06/17 09:07:46 Starting main loop
+agent0: DEBUG	[DEBUG] memberlist: Initiating push/pull sync with: 5cf603c3-c09c-4181-ab86-7bf41bba2444 172.30.0.2:5000
+agent0: DEBUG	[DEBUG] memberlist: Stream connection from=172.30.0.11:58754

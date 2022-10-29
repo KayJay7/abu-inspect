@@ -1,0 +1,3012 @@
+[
+    {
+        "abusim-example-agent0": {
+            "received_bytes": 8252190,
+            "received_packets": 119337,
+            "sent_bytes": 296351556,
+            "sent_packets": 242813
+        },
+        "abusim-example-agent1": {
+            "received_bytes": 324664204,
+            "received_packets": 382508,
+            "sent_bytes": 299475860,
+            "sent_packets": 360209
+        },
+        "abusim-example-agent2": {
+            "received_bytes": 324269586,
+            "received_packets": 382537,
+            "sent_bytes": 299178662,
+            "sent_packets": 360182
+        },
+        "abusim-example-agent3": {
+            "received_bytes": 324577447,
+            "received_packets": 382222,
+            "sent_bytes": 298551261,
+            "sent_packets": 359715
+        },
+        "abusim-example-agent4": {
+            "received_bytes": 324371246,
+            "received_packets": 381707,
+            "sent_bytes": 298228732,
+            "sent_packets": 359527
+        },
+        "abusim-example-agent5": {
+            "received_bytes": 324561155,
+            "received_packets": 381781,
+            "sent_bytes": 297888578,
+            "sent_packets": 358657
+        },
+        "abusim-example-agent6": {
+            "received_bytes": 8199688,
+            "received_packets": 118056,
+            "sent_bytes": 295104628,
+            "sent_packets": 240776
+        },
+        "abusim-example-agent7": {
+            "received_bytes": 324608243,
+            "received_packets": 382366,
+            "sent_bytes": 293917234,
+            "sent_packets": 359601
+        },
+        "abusim-example-agent8": {
+            "received_bytes": 8164004,
+            "received_packets": 117705,
+            "sent_bytes": 293124293,
+            "sent_packets": 240247
+        },
+        "abusim-example-agent9": {
+            "received_bytes": 324490511,
+            "received_packets": 381493,
+            "sent_bytes": 296954453,
+            "sent_packets": 358101
+        },
+        "abusim-example-agent10": {
+            "received_bytes": 324186889,
+            "received_packets": 381161,
+            "sent_bytes": 297002555,
+            "sent_packets": 358059
+        },
+        "abusim-example-agent11": {
+            "received_bytes": 7549234,
+            "received_packets": 108605,
+            "sent_bytes": 271787716,
+            "sent_packets": 224229
+        },
+        "abusim-example-agent12": {
+            "received_bytes": 7832175,
+            "received_packets": 113093,
+            "sent_bytes": 283811586,
+            "sent_packets": 232365
+        },
+        "abusim-example-agent13": {
+            "received_bytes": 7598315,
+            "received_packets": 109693,
+            "sent_bytes": 274122907,
+            "sent_packets": 226414
+        },
+        "abusim-example-agent14": {
+            "received_bytes": 323107621,
+            "received_packets": 372806,
+            "sent_bytes": 281827482,
+            "sent_packets": 347739
+        },
+        "abusim-example-agent15": {
+            "received_bytes": 324044620,
+            "received_packets": 379225,
+            "sent_bytes": 293335222,
+            "sent_packets": 355719
+        },
+        "abusim-example-agent16": {
+            "received_bytes": 323908173,
+            "received_packets": 379052,
+            "sent_bytes": 294086213,
+            "sent_packets": 356034
+        },
+        "abusim-example-agent17": {
+            "received_bytes": 8211942,
+            "received_packets": 118430,
+            "sent_bytes": 297097894,
+            "sent_packets": 241563
+        },
+        "abusim-example-agent18": {
+            "received_bytes": 324378376,
+            "received_packets": 382301,
+            "sent_bytes": 300252453,
+            "sent_packets": 360013
+        },
+        "abusim-example-agent19": {
+            "received_bytes": 324595547,
+            "received_packets": 382621,
+            "sent_bytes": 300239249,
+            "sent_packets": 360286
+        },
+        "abusim-example-agent20": {
+            "received_bytes": 324611019,
+            "received_packets": 382518,
+            "sent_bytes": 300546585,
+            "sent_packets": 360212
+        },
+        "abusim-example-agent21": {
+            "received_bytes": 324575342,
+            "received_packets": 382312,
+            "sent_bytes": 300839160,
+            "sent_packets": 360463
+        },
+        "abusim-example-agent22": {
+            "received_bytes": 324472495,
+            "received_packets": 382472,
+            "sent_bytes": 300340122,
+            "sent_packets": 360547
+        },
+        "abusim-example-agent23": {
+            "received_bytes": 324525166,
+            "received_packets": 382413,
+            "sent_bytes": 300798706,
+            "sent_packets": 360311
+        },
+        "abusim-example-agent24": {
+            "received_bytes": 324352586,
+            "received_packets": 382280,
+            "sent_bytes": 300556001,
+            "sent_packets": 360347
+        },
+        "abusim-example-agent25": {
+            "received_bytes": 324575300,
+            "received_packets": 382777,
+            "sent_bytes": 300848870,
+            "sent_packets": 360430
+        },
+        "abusim-example-agent26": {
+            "received_bytes": 324480275,
+            "received_packets": 382020,
+            "sent_bytes": 299434344,
+            "sent_packets": 359772
+        },
+        "abusim-example-agent27": {
+            "received_bytes": 324454996,
+            "received_packets": 382070,
+            "sent_bytes": 299803097,
+            "sent_packets": 359692
+        },
+        "abusim-example-agent28": {
+            "received_bytes": 324434140,
+            "received_packets": 382063,
+            "sent_bytes": 299277597,
+            "sent_packets": 359679
+        },
+        "abusim-example-agent29": {
+            "received_bytes": 8221520,
+            "received_packets": 118603,
+            "sent_bytes": 296345003,
+            "sent_packets": 241802
+        },
+        "abusim-example-agent30": {
+            "received_bytes": 324484748,
+            "received_packets": 382233,
+            "sent_bytes": 299522082,
+            "sent_packets": 359538
+        },
+        "abusim-example-agent31": {
+            "received_bytes": 324386773,
+            "received_packets": 382065,
+            "sent_bytes": 299805928,
+            "sent_packets": 359487
+        },
+        "abusim-example-agent32": {
+            "received_bytes": 324591685,
+            "received_packets": 382131,
+            "sent_bytes": 299329086,
+            "sent_packets": 359476
+        },
+        "abusim-example-agent33": {
+            "received_bytes": 8193739,
+            "received_packets": 118605,
+            "sent_bytes": 296040089,
+            "sent_packets": 241397
+        },
+        "abusim-example-agent34": {
+            "received_bytes": 324499442,
+            "received_packets": 381618,
+            "sent_bytes": 298039627,
+            "sent_packets": 358644
+        },
+        "abusim-example-agent35": {
+            "received_bytes": 324439772,
+            "received_packets": 381135,
+            "sent_bytes": 298514778,
+            "sent_packets": 358286
+        },
+        "abusim-example-agent36": {
+            "received_bytes": 851633,
+            "received_packets": 12004,
+            "sent_bytes": 32450715,
+            "sent_packets": 63144
+        },
+        "abusim-example-agent37": {
+            "received_bytes": 804998,
+            "received_packets": 11235,
+            "sent_bytes": 30275147,
+            "sent_packets": 62003
+        },
+        "abusim-example-agent38": {
+            "received_bytes": 314636145,
+            "received_packets": 303520,
+            "sent_bytes": 162788196,
+            "sent_packets": 267564
+        },
+        "abusim-example-agent39": {
+            "received_bytes": 303077512,
+            "received_packets": 230407,
+            "sent_bytes": 38830660,
+            "sent_packets": 183496
+        },
+        "abusim-example-agent40": {
+            "received_bytes": 863596,
+            "received_packets": 11973,
+            "sent_bytes": 31689863,
+            "sent_packets": 62055
+        },
+        "abusim-example-agent41": {
+            "received_bytes": 310934914,
+            "received_packets": 290655,
+            "sent_bytes": 142230011,
+            "sent_packets": 253515
+        },
+        "abusim-example-agent42": {
+            "received_bytes": 310949076,
+            "received_packets": 290362,
+            "sent_bytes": 142963222,
+            "sent_packets": 253221
+        },
+        "abusim-example-agent43": {
+            "received_bytes": 314757206,
+            "received_packets": 317402,
+            "sent_bytes": 188231827,
+            "sent_packets": 284425
+        },
+        "abusim-example-agent44": {
+            "received_bytes": 319714204,
+            "received_packets": 350268,
+            "sent_bytes": 245479376,
+            "sent_packets": 322941
+        },
+        "abusim-example-agent45": {
+            "received_bytes": 321671502,
+            "received_packets": 363512,
+            "sent_bytes": 267095938,
+            "sent_packets": 337970
+        },
+        "abusim-example-agent46": {
+            "received_bytes": 857246,
+            "received_packets": 11683,
+            "sent_bytes": 31478955,
+            "sent_packets": 62858
+        },
+        "abusim-example-agent47": {
+            "received_bytes": 318465763,
+            "received_packets": 342768,
+            "sent_bytes": 232065370,
+            "sent_packets": 314271
+        },
+        "abusim-example-agent48": {
+            "received_bytes": 317796697,
+            "received_packets": 336571,
+            "sent_bytes": 221701518,
+            "sent_packets": 307228
+        },
+        "abusim-example-agent49": {
+            "received_bytes": 316803872,
+            "received_packets": 330557,
+            "sent_bytes": 210295353,
+            "sent_packets": 299756
+        },
+        "abusim-example-agent50": {
+            "received_bytes": 321474016,
+            "received_packets": 363517,
+            "sent_bytes": 267627532,
+            "sent_packets": 338337
+        },
+        "abusim-example-agent51": {
+            "received_bytes": 322699920,
+            "received_packets": 370172,
+            "sent_bytes": 278369138,
+            "sent_packets": 345847
+        },
+        "abusim-example-agent52": {
+            "received_bytes": 323539614,
+            "received_packets": 375603,
+            "sent_bytes": 288475034,
+            "sent_packets": 352298
+        },
+        "abusim-example-agent53": {
+            "received_bytes": 324517565,
+            "received_packets": 382293,
+            "sent_bytes": 299054186,
+            "sent_packets": 359697
+        },
+        "abusim-example-agent54": {
+            "received_bytes": 324710997,
+            "received_packets": 382221,
+            "sent_bytes": 299333587,
+            "sent_packets": 359905
+        },
+        "abusim-example-agent55": {
+            "received_bytes": 8196123,
+            "received_packets": 118163,
+            "sent_bytes": 295725663,
+            "sent_packets": 241009
+        },
+        "abusim-example-agent56": {
+            "received_bytes": 324350319,
+            "received_packets": 382038,
+            "sent_bytes": 298699954,
+            "sent_packets": 359347
+        },
+        "abusim-example-agent57": {
+            "received_bytes": 324406114,
+            "received_packets": 381559,
+            "sent_bytes": 298375061,
+            "sent_packets": 358530
+        },
+        "abusim-example-agent58": {
+            "received_bytes": 821727,
+            "received_packets": 11751,
+            "sent_bytes": 29485766,
+            "sent_packets": 61867
+        },
+        "abusim-example-agent59": {
+            "received_bytes": 318429458,
+            "received_packets": 341804,
+            "sent_bytes": 229670125,
+            "sent_packets": 312773
+        },
+        "abusim-example-agent60": {
+            "received_bytes": 5906094,
+            "received_packets": 85379,
+            "sent_bytes": 214919691,
+            "sent_packets": 186283
+        },
+        "abusim-example-agent61": {
+            "received_bytes": 316728743,
+            "received_packets": 328755,
+            "sent_bytes": 207629514,
+            "sent_packets": 297467
+        },
+        "abusim-example-agent62": {
+            "received_bytes": 321467159,
+            "received_packets": 361728,
+            "sent_bytes": 264013464,
+            "sent_packets": 335700
+        },
+        "abusim-example-agent63": {
+            "received_bytes": 322684152,
+            "received_packets": 368752,
+            "sent_bytes": 275789884,
+            "sent_packets": 343694
+        },
+        "abusim-example-agent64": {
+            "received_bytes": 7849963,
+            "received_packets": 113542,
+            "sent_bytes": 283894009,
+            "sent_packets": 233158
+        },
+        "abusim-example-agent65": {
+            "received_bytes": 8216155,
+            "received_packets": 118379,
+            "sent_bytes": 296703473,
+            "sent_packets": 241326
+        },
+        "abusim-example-agent66": {
+            "received_bytes": 324525662,
+            "received_packets": 381958,
+            "sent_bytes": 298909011,
+            "sent_packets": 359160
+        },
+        "abusim-example-agent67": {
+            "received_bytes": 324549567,
+            "received_packets": 381879,
+            "sent_bytes": 299327046,
+            "sent_packets": 358719
+        },
+        "abusim-example-agent68": {
+            "received_bytes": 324410966,
+            "received_packets": 381640,
+            "sent_bytes": 298927532,
+            "sent_packets": 359091
+        },
+        "abusim-example-agent69": {
+            "received_bytes": 862278,
+            "received_packets": 12105,
+            "sent_bytes": 31333243,
+            "sent_packets": 61555
+        },
+        "abusim-example-agent70": {
+            "received_bytes": 318604493,
+            "received_packets": 343046,
+            "sent_bytes": 231914558,
+            "sent_packets": 314507
+        },
+        "abusim-example-agent71": {
+            "received_bytes": 317847783,
+            "received_packets": 336641,
+            "sent_bytes": 221432982,
+            "sent_packets": 307377
+        },
+        "abusim-example-agent72": {
+            "received_bytes": 316499692,
+            "received_packets": 329952,
+            "sent_bytes": 210772918,
+            "sent_packets": 299404
+        },
+        "abusim-example-agent73": {
+            "received_bytes": 321650603,
+            "received_packets": 363460,
+            "sent_bytes": 267839054,
+            "sent_packets": 338160
+        },
+        "abusim-example-agent74": {
+            "received_bytes": 322500824,
+            "received_packets": 369851,
+            "sent_bytes": 278559382,
+            "sent_packets": 346123
+        },
+        "abusim-example-agent75": {
+            "received_bytes": 323461010,
+            "received_packets": 375773,
+            "sent_bytes": 288685990,
+            "sent_packets": 352567
+        },
+        "abusim-example-agent76": {
+            "received_bytes": 324483987,
+            "received_packets": 382419,
+            "sent_bytes": 300252368,
+            "sent_packets": 360253
+        },
+        "abusim-example-agent77": {
+            "received_bytes": 324583894,
+            "received_packets": 382089,
+            "sent_bytes": 299416251,
+            "sent_packets": 359516
+        },
+        "abusim-example-agent78": {
+            "received_bytes": 324432157,
+            "received_packets": 381751,
+            "sent_bytes": 299086516,
+            "sent_packets": 359270
+        },
+        "abusim-example-agent79": {
+            "received_bytes": 324574698,
+            "received_packets": 381688,
+            "sent_bytes": 298419638,
+            "sent_packets": 358918
+        },
+        "abusim-example-agent80": {
+            "received_bytes": 8179616,
+            "received_packets": 118234,
+            "sent_bytes": 296302926,
+            "sent_packets": 241033
+        },
+        "abusim-example-agent81": {
+            "received_bytes": 324666712,
+            "received_packets": 382184,
+            "sent_bytes": 299760479,
+            "sent_packets": 359510
+        },
+        "abusim-example-agent82": {
+            "received_bytes": 805404,
+            "received_packets": 11544,
+            "sent_bytes": 31085350,
+            "sent_packets": 62454
+        },
+        "abusim-example-agent83": {
+            "received_bytes": 318630361,
+            "received_packets": 342890,
+            "sent_bytes": 232241375,
+            "sent_packets": 314056
+        },
+        "abusim-example-agent84": {
+            "received_bytes": 317845673,
+            "received_packets": 337192,
+            "sent_bytes": 221575830,
+            "sent_packets": 307425
+        },
+        "abusim-example-agent85": {
+            "received_bytes": 316719479,
+            "received_packets": 329960,
+            "sent_bytes": 210269641,
+            "sent_packets": 299326
+        },
+        "abusim-example-agent86": {
+            "received_bytes": 321755077,
+            "received_packets": 362956,
+            "sent_bytes": 267823624,
+            "sent_packets": 337452
+        },
+        "abusim-example-agent87": {
+            "received_bytes": 322712731,
+            "received_packets": 369651,
+            "sent_bytes": 277861350,
+            "sent_packets": 345043
+        },
+        "abusim-example-agent88": {
+            "received_bytes": 768187,
+            "received_packets": 10767,
+            "sent_bytes": 30172624,
+            "sent_packets": 61369
+        },
+        "abusim-example-agent89": {
+            "received_bytes": 318685168,
+            "received_packets": 342753,
+            "sent_bytes": 232084542,
+            "sent_packets": 314626
+        },
+        "abusim-example-agent90": {
+            "received_bytes": 317778436,
+            "received_packets": 336711,
+            "sent_bytes": 221499128,
+            "sent_packets": 307224
+        },
+        "abusim-example-agent91": {
+            "received_bytes": 316836325,
+            "received_packets": 330401,
+            "sent_bytes": 210816384,
+            "sent_packets": 300135
+        },
+        "abusim-example-agent92": {
+            "received_bytes": 321646627,
+            "received_packets": 363412,
+            "sent_bytes": 267286349,
+            "sent_packets": 338017
+        },
+        "abusim-example-agent93": {
+            "received_bytes": 322481450,
+            "received_packets": 369376,
+            "sent_bytes": 278318592,
+            "sent_packets": 345252
+        },
+        "abusim-example-agent94": {
+            "received_bytes": 323686581,
+            "received_packets": 376497,
+            "sent_bytes": 289745755,
+            "sent_packets": 353377
+        },
+        "abusim-example-agent95": {
+            "received_bytes": 324357431,
+            "received_packets": 381758,
+            "sent_bytes": 300543702,
+            "sent_packets": 359928
+        },
+        "abusim-example-agent96": {
+            "received_bytes": 324398892,
+            "received_packets": 382310,
+            "sent_bytes": 300706233,
+            "sent_packets": 360518
+        },
+        "abusim-example-agent97": {
+            "received_bytes": 324384096,
+            "received_packets": 381615,
+            "sent_bytes": 299377599,
+            "sent_packets": 359205
+        },
+        "abusim-example-agent98": {
+            "received_bytes": 324352300,
+            "received_packets": 381961,
+            "sent_bytes": 297329011,
+            "sent_packets": 359242
+        },
+        "abusim-example-agent99": {
+            "received_bytes": 324661013,
+            "received_packets": 382381,
+            "sent_bytes": 298085138,
+            "sent_packets": 359629
+        }
+    },
+    {
+        "abusim-example-agent0": {
+            "received_bytes": 7627406,
+            "received_packets": 109763,
+            "sent_bytes": 270829337,
+            "sent_packets": 210305
+        },
+        "abusim-example-agent1": {
+            "received_bytes": 213354417,
+            "received_packets": 296939,
+            "sent_bytes": 283356548,
+            "sent_packets": 291663
+        },
+        "abusim-example-agent2": {
+            "received_bytes": 213633062,
+            "received_packets": 300343,
+            "sent_bytes": 288696022,
+            "sent_packets": 295390
+        },
+        "abusim-example-agent3": {
+            "received_bytes": 214035026,
+            "received_packets": 301107,
+            "sent_bytes": 290343305,
+            "sent_packets": 296204
+        },
+        "abusim-example-agent4": {
+            "received_bytes": 213987971,
+            "received_packets": 301568,
+            "sent_bytes": 290832597,
+            "sent_packets": 297034
+        },
+        "abusim-example-agent5": {
+            "received_bytes": 214024425,
+            "received_packets": 301186,
+            "sent_bytes": 290178722,
+            "sent_packets": 296029
+        },
+        "abusim-example-agent6": {
+            "received_bytes": 8134903,
+            "received_packets": 116822,
+            "sent_bytes": 289594071,
+            "sent_packets": 222013
+        },
+        "abusim-example-agent7": {
+            "received_bytes": 214011846,
+            "received_packets": 301345,
+            "sent_bytes": 286328009,
+            "sent_packets": 296597
+        },
+        "abusim-example-agent8": {
+            "received_bytes": 853975,
+            "received_packets": 11627,
+            "sent_bytes": 28304602,
+            "sent_packets": 44577
+        },
+        "abusim-example-agent9": {
+            "received_bytes": 209850044,
+            "received_packets": 260906,
+            "sent_bytes": 218796176,
+            "sent_packets": 248622
+        },
+        "abusim-example-agent10": {
+            "received_bytes": 208772334,
+            "received_packets": 253634,
+            "sent_bytes": 206192793,
+            "sent_packets": 240039
+        },
+        "abusim-example-agent11": {
+            "received_bytes": 5350961,
+            "received_packets": 76818,
+            "sent_bytes": 191649730,
+            "sent_packets": 155102
+        },
+        "abusim-example-agent12": {
+            "received_bytes": 7050799,
+            "received_packets": 101233,
+            "sent_bytes": 252184741,
+            "sent_packets": 195933
+        },
+        "abusim-example-agent13": {
+            "received_bytes": 7442394,
+            "received_packets": 106778,
+            "sent_bytes": 264737030,
+            "sent_packets": 204950
+        },
+        "abusim-example-agent14": {
+            "received_bytes": 212755711,
+            "received_packets": 294279,
+            "sent_bytes": 278174119,
+            "sent_packets": 287632
+        },
+        "abusim-example-agent15": {
+            "received_bytes": 213859272,
+            "received_packets": 301504,
+            "sent_bytes": 290817901,
+            "sent_packets": 296375
+        },
+        "abusim-example-agent16": {
+            "received_bytes": 213995524,
+            "received_packets": 301461,
+            "sent_bytes": 291417657,
+            "sent_packets": 296569
+        },
+        "abusim-example-agent17": {
+            "received_bytes": 854055,
+            "received_packets": 11883,
+            "sent_bytes": 29094530,
+            "sent_packets": 46730
+        },
+        "abusim-example-agent18": {
+            "received_bytes": 210340974,
+            "received_packets": 264460,
+            "sent_bytes": 225971470,
+            "sent_packets": 253261
+        },
+        "abusim-example-agent19": {
+            "received_bytes": 193853092,
+            "received_packets": 152202,
+            "sent_bytes": 32708228,
+            "sent_packets": 123031
+        },
+        "abusim-example-agent20": {
+            "received_bytes": 192822650,
+            "received_packets": 152203,
+            "sent_bytes": 33354068,
+            "sent_packets": 123317
+        },
+        "abusim-example-agent21": {
+            "received_bytes": 202050475,
+            "received_packets": 221199,
+            "sent_bytes": 153505495,
+            "sent_packets": 203869
+        },
+        "abusim-example-agent22": {
+            "received_bytes": 201374735,
+            "received_packets": 216179,
+            "sent_bytes": 145428882,
+            "sent_packets": 198242
+        },
+        "abusim-example-agent23": {
+            "received_bytes": 205459793,
+            "received_packets": 244010,
+            "sent_bytes": 193330797,
+            "sent_packets": 230475
+        },
+        "abusim-example-agent24": {
+            "received_bytes": 210051269,
+            "received_packets": 275568,
+            "sent_bytes": 248006526,
+            "sent_packets": 267270
+        },
+        "abusim-example-agent25": {
+            "received_bytes": 211731773,
+            "received_packets": 286464,
+            "sent_bytes": 266748466,
+            "sent_packets": 279904
+        },
+        "abusim-example-agent26": {
+            "received_bytes": 213163766,
+            "received_packets": 296282,
+            "sent_bytes": 283177558,
+            "sent_packets": 291036
+        },
+        "abusim-example-agent27": {
+            "received_bytes": 214100595,
+            "received_packets": 301704,
+            "sent_bytes": 291627375,
+            "sent_packets": 296938
+        },
+        "abusim-example-agent28": {
+            "received_bytes": 194577921,
+            "received_packets": 151930,
+            "sent_bytes": 31276604,
+            "sent_packets": 122937
+        },
+        "abusim-example-agent29": {
+            "received_bytes": 748670,
+            "received_packets": 10113,
+            "sent_bytes": 24051775,
+            "sent_packets": 43394
+        },
+        "abusim-example-agent30": {
+            "received_bytes": 204095559,
+            "received_packets": 220764,
+            "sent_bytes": 150437466,
+            "sent_packets": 202263
+        },
+        "abusim-example-agent31": {
+            "received_bytes": 192765125,
+            "received_packets": 151349,
+            "sent_bytes": 32554914,
+            "sent_packets": 122499
+        },
+        "abusim-example-agent32": {
+            "received_bytes": 200145851,
+            "received_packets": 208502,
+            "sent_bytes": 131595980,
+            "sent_packets": 188816
+        },
+        "abusim-example-agent33": {
+            "received_bytes": 4986035,
+            "received_packets": 71149,
+            "sent_bytes": 177950609,
+            "sent_packets": 145879
+        },
+        "abusim-example-agent34": {
+            "received_bytes": 205541625,
+            "received_packets": 244755,
+            "sent_bytes": 193738004,
+            "sent_packets": 230608
+        },
+        "abusim-example-agent35": {
+            "received_bytes": 210370099,
+            "received_packets": 277475,
+            "sent_bytes": 250100991,
+            "sent_packets": 268574
+        },
+        "abusim-example-agent36": {
+            "received_bytes": 402731,
+            "received_packets": 5122,
+            "sent_bytes": 11435017,
+            "sent_packets": 34903
+        },
+        "abusim-example-agent37": {
+            "received_bytes": 336199,
+            "received_packets": 3857,
+            "sent_bytes": 9102403,
+            "sent_packets": 32926
+        },
+        "abusim-example-agent38": {
+            "received_bytes": 200689902,
+            "received_packets": 196383,
+            "sent_bytes": 107846890,
+            "sent_packets": 174040
+        },
+        "abusim-example-agent39": {
+            "received_bytes": 190837512,
+            "received_packets": 140545,
+            "sent_bytes": 14439960,
+            "sent_packets": 110114
+        },
+        "abusim-example-agent40": {
+            "received_bytes": 312625,
+            "received_packets": 3524,
+            "sent_bytes": 9035645,
+            "sent_packets": 32310
+        },
+        "abusim-example-agent41": {
+            "received_bytes": 193270190,
+            "received_packets": 159181,
+            "sent_bytes": 47126893,
+            "sent_packets": 131844
+        },
+        "abusim-example-agent42": {
+            "received_bytes": 191642519,
+            "received_packets": 148152,
+            "sent_bytes": 27671459,
+            "sent_packets": 118995
+        },
+        "abusim-example-agent43": {
+            "received_bytes": 192229067,
+            "received_packets": 152021,
+            "sent_bytes": 33963677,
+            "sent_packets": 123437
+        },
+        "abusim-example-agent44": {
+            "received_bytes": 192999178,
+            "received_packets": 157511,
+            "sent_bytes": 44252753,
+            "sent_packets": 129830
+        },
+        "abusim-example-agent45": {
+            "received_bytes": 193543153,
+            "received_packets": 161263,
+            "sent_bytes": 49575546,
+            "sent_packets": 134031
+        },
+        "abusim-example-agent46": {
+            "received_bytes": 308584,
+            "received_packets": 3853,
+            "sent_bytes": 9033642,
+            "sent_packets": 32738
+        },
+        "abusim-example-agent47": {
+            "received_bytes": 193879599,
+            "received_packets": 164799,
+            "sent_bytes": 56510832,
+            "sent_packets": 138395
+        },
+        "abusim-example-agent48": {
+            "received_bytes": 194936573,
+            "received_packets": 171054,
+            "sent_bytes": 67515620,
+            "sent_packets": 145629
+        },
+        "abusim-example-agent49": {
+            "received_bytes": 195716220,
+            "received_packets": 176796,
+            "sent_bytes": 76518271,
+            "sent_packets": 152174
+        },
+        "abusim-example-agent50": {
+            "received_bytes": 198417677,
+            "received_packets": 195590,
+            "sent_bytes": 109981362,
+            "sent_packets": 174358
+        },
+        "abusim-example-agent51": {
+            "received_bytes": 200138064,
+            "received_packets": 207478,
+            "sent_bytes": 129912648,
+            "sent_packets": 188081
+        },
+        "abusim-example-agent52": {
+            "received_bytes": 201771200,
+            "received_packets": 218055,
+            "sent_bytes": 147778842,
+            "sent_packets": 200011
+        },
+        "abusim-example-agent53": {
+            "received_bytes": 203789472,
+            "received_packets": 231815,
+            "sent_bytes": 171085240,
+            "sent_packets": 216214
+        },
+        "abusim-example-agent54": {
+            "received_bytes": 205294654,
+            "received_packets": 242176,
+            "sent_bytes": 189657712,
+            "sent_packets": 227970
+        },
+        "abusim-example-agent55": {
+            "received_bytes": 5796812,
+            "received_packets": 83344,
+            "sent_bytes": 207857392,
+            "sent_packets": 166156
+        },
+        "abusim-example-agent56": {
+            "received_bytes": 208879907,
+            "received_packets": 267914,
+            "sent_bytes": 233609898,
+            "sent_packets": 257573
+        },
+        "abusim-example-agent57": {
+            "received_bytes": 210779488,
+            "received_packets": 279903,
+            "sent_bytes": 253596380,
+            "sent_packets": 271151
+        },
+        "abusim-example-agent58": {
+            "received_bytes": 300963,
+            "received_packets": 3627,
+            "sent_bytes": 9093090,
+            "sent_packets": 32810
+        },
+        "abusim-example-agent59": {
+            "received_bytes": 205512366,
+            "received_packets": 243602,
+            "sent_bytes": 191157362,
+            "sent_packets": 229683
+        },
+        "abusim-example-agent60": {
+            "received_bytes": 4588951,
+            "received_packets": 65624,
+            "sent_bytes": 164668326,
+            "sent_packets": 136952
+        },
+        "abusim-example-agent61": {
+            "received_bytes": 200347235,
+            "received_packets": 207505,
+            "sent_bytes": 129448844,
+            "sent_packets": 187553
+        },
+        "abusim-example-agent62": {
+            "received_bytes": 203492552,
+            "received_packets": 230158,
+            "sent_bytes": 168038057,
+            "sent_packets": 213714
+        },
+        "abusim-example-agent63": {
+            "received_bytes": 202892698,
+            "received_packets": 225496,
+            "sent_bytes": 160311376,
+            "sent_packets": 208529
+        },
+        "abusim-example-agent64": {
+            "received_bytes": 4440951,
+            "received_packets": 63218,
+            "sent_bytes": 158543289,
+            "sent_packets": 132711
+        },
+        "abusim-example-agent65": {
+            "received_bytes": 4931467,
+            "received_packets": 70434,
+            "sent_bytes": 176487085,
+            "sent_packets": 144772
+        },
+        "abusim-example-agent66": {
+            "received_bytes": 205330201,
+            "received_packets": 242975,
+            "sent_bytes": 190894601,
+            "sent_packets": 228811
+        },
+        "abusim-example-agent67": {
+            "received_bytes": 207054080,
+            "received_packets": 254345,
+            "sent_bytes": 210846071,
+            "sent_packets": 241956
+        },
+        "abusim-example-agent68": {
+            "received_bytes": 208943279,
+            "received_packets": 268114,
+            "sent_bytes": 233971193,
+            "sent_packets": 258086
+        },
+        "abusim-example-agent69": {
+            "received_bytes": 326942,
+            "received_packets": 4062,
+            "sent_bytes": 9163764,
+            "sent_packets": 33448
+        },
+        "abusim-example-agent70": {
+            "received_bytes": 204694602,
+            "received_packets": 237997,
+            "sent_bytes": 182469071,
+            "sent_packets": 223633
+        },
+        "abusim-example-agent71": {
+            "received_bytes": 203065737,
+            "received_packets": 227103,
+            "sent_bytes": 163605298,
+            "sent_packets": 210798
+        },
+        "abusim-example-agent72": {
+            "received_bytes": 200204369,
+            "received_packets": 207091,
+            "sent_bytes": 129320562,
+            "sent_packets": 187483
+        },
+        "abusim-example-agent73": {
+            "received_bytes": 203440048,
+            "received_packets": 230351,
+            "sent_bytes": 168929151,
+            "sent_packets": 214518
+        },
+        "abusim-example-agent74": {
+            "received_bytes": 202867134,
+            "received_packets": 225669,
+            "sent_bytes": 161278140,
+            "sent_packets": 209008
+        },
+        "abusim-example-agent75": {
+            "received_bytes": 202896728,
+            "received_packets": 226442,
+            "sent_bytes": 162208085,
+            "sent_packets": 209953
+        },
+        "abusim-example-agent76": {
+            "received_bytes": 204431505,
+            "received_packets": 236739,
+            "sent_bytes": 179955837,
+            "sent_packets": 221920
+        },
+        "abusim-example-agent77": {
+            "received_bytes": 205242656,
+            "received_packets": 242855,
+            "sent_bytes": 191291643,
+            "sent_packets": 228997
+        },
+        "abusim-example-agent78": {
+            "received_bytes": 207033042,
+            "received_packets": 254515,
+            "sent_bytes": 210690933,
+            "sent_packets": 242220
+        },
+        "abusim-example-agent79": {
+            "received_bytes": 209063492,
+            "received_packets": 267709,
+            "sent_bytes": 233266748,
+            "sent_packets": 257160
+        },
+        "abusim-example-agent80": {
+            "received_bytes": 7077427,
+            "received_packets": 101403,
+            "sent_bytes": 253288025,
+            "sent_packets": 196353
+        },
+        "abusim-example-agent81": {
+            "received_bytes": 212321885,
+            "received_packets": 289992,
+            "sent_bytes": 272237026,
+            "sent_packets": 283270
+        },
+        "abusim-example-agent82": {
+            "received_bytes": 301733,
+            "received_packets": 3367,
+            "sent_bytes": 9001391,
+            "sent_packets": 32533
+        },
+        "abusim-example-agent83": {
+            "received_bytes": 205944078,
+            "received_packets": 246367,
+            "sent_bytes": 197340386,
+            "sent_packets": 232995
+        },
+        "abusim-example-agent84": {
+            "received_bytes": 203595205,
+            "received_packets": 230193,
+            "sent_bytes": 169409509,
+            "sent_packets": 214546
+        },
+        "abusim-example-agent85": {
+            "received_bytes": 200162904,
+            "received_packets": 207308,
+            "sent_bytes": 129538601,
+            "sent_packets": 187587
+        },
+        "abusim-example-agent86": {
+            "received_bytes": 203514468,
+            "received_packets": 229877,
+            "sent_bytes": 169237846,
+            "sent_packets": 213959
+        },
+        "abusim-example-agent87": {
+            "received_bytes": 202893562,
+            "received_packets": 225684,
+            "sent_bytes": 160864465,
+            "sent_packets": 208816
+        },
+        "abusim-example-agent88": {
+            "received_bytes": 320520,
+            "received_packets": 3794,
+            "sent_bytes": 9048482,
+            "sent_packets": 32891
+        },
+        "abusim-example-agent89": {
+            "received_bytes": 199674169,
+            "received_packets": 203192,
+            "sent_bytes": 122912844,
+            "sent_packets": 183065
+        },
+        "abusim-example-agent90": {
+            "received_bytes": 198552171,
+            "received_packets": 196714,
+            "sent_bytes": 111476755,
+            "sent_packets": 175648
+        },
+        "abusim-example-agent91": {
+            "received_bytes": 197553071,
+            "received_packets": 189059,
+            "sent_bytes": 98430631,
+            "sent_packets": 166491
+        },
+        "abusim-example-agent92": {
+            "received_bytes": 200445390,
+            "received_packets": 209673,
+            "sent_bytes": 133643657,
+            "sent_packets": 190688
+        },
+        "abusim-example-agent93": {
+            "received_bytes": 201039638,
+            "received_packets": 214108,
+            "sent_bytes": 141328882,
+            "sent_packets": 195489
+        },
+        "abusim-example-agent94": {
+            "received_bytes": 202123215,
+            "received_packets": 221138,
+            "sent_bytes": 153695995,
+            "sent_packets": 203855
+        },
+        "abusim-example-agent95": {
+            "received_bytes": 203936072,
+            "received_packets": 233306,
+            "sent_bytes": 174917049,
+            "sent_packets": 218203
+        },
+        "abusim-example-agent96": {
+            "received_bytes": 205276340,
+            "received_packets": 242668,
+            "sent_bytes": 191137011,
+            "sent_packets": 228896
+        },
+        "abusim-example-agent97": {
+            "received_bytes": 206980103,
+            "received_packets": 254483,
+            "sent_bytes": 210731548,
+            "sent_packets": 242443
+        },
+        "abusim-example-agent98": {
+            "received_bytes": 209006369,
+            "received_packets": 268009,
+            "sent_bytes": 232686685,
+            "sent_packets": 257970
+        },
+        "abusim-example-agent99": {
+            "received_bytes": 210838415,
+            "received_packets": 280101,
+            "sent_bytes": 253669124,
+            "sent_packets": 272068
+        }
+    },
+    {
+        "abusim-example-agent0": {
+            "received_bytes": 7665664,
+            "received_packets": 110186,
+            "sent_bytes": 271712940,
+            "sent_packets": 215279
+        },
+        "abusim-example-agent1": {
+            "received_bytes": 211586845,
+            "received_packets": 300127,
+            "sent_bytes": 284076572,
+            "sent_packets": 295905
+        },
+        "abusim-example-agent2": {
+            "received_bytes": 211791129,
+            "received_packets": 303161,
+            "sent_bytes": 289671107,
+            "sent_packets": 299756
+        },
+        "abusim-example-agent3": {
+            "received_bytes": 212139798,
+            "received_packets": 304077,
+            "sent_bytes": 291058399,
+            "sent_packets": 300442
+        },
+        "abusim-example-agent4": {
+            "received_bytes": 212157104,
+            "received_packets": 304399,
+            "sent_bytes": 291249759,
+            "sent_packets": 300839
+        },
+        "abusim-example-agent5": {
+            "received_bytes": 212311954,
+            "received_packets": 304386,
+            "sent_bytes": 290916948,
+            "sent_packets": 300103
+        },
+        "abusim-example-agent6": {
+            "received_bytes": 757727,
+            "received_packets": 10217,
+            "sent_bytes": 26120406,
+            "sent_packets": 48168
+        },
+        "abusim-example-agent7": {
+            "received_bytes": 205863809,
+            "received_packets": 261668,
+            "sent_bytes": 214524782,
+            "sent_packets": 250963
+        },
+        "abusim-example-agent8": {
+            "received_bytes": 428873,
+            "received_packets": 5207,
+            "sent_bytes": 14657392,
+            "sent_packets": 40054
+        },
+        "abusim-example-agent9": {
+            "received_bytes": 199563990,
+            "received_packets": 205765,
+            "sent_bytes": 119456027,
+            "sent_packets": 185282
+        },
+        "abusim-example-agent10": {
+            "received_bytes": 201631708,
+            "received_packets": 221064,
+            "sent_bytes": 146366730,
+            "sent_packets": 203361
+        },
+        "abusim-example-agent11": {
+            "received_bytes": 3209695,
+            "received_packets": 45548,
+            "sent_bytes": 115131276,
+            "sent_packets": 107193
+        },
+        "abusim-example-agent12": {
+            "received_bytes": 869738,
+            "received_packets": 11695,
+            "sent_bytes": 30791576,
+            "sent_packets": 50035
+        },
+        "abusim-example-agent13": {
+            "received_bytes": 3213763,
+            "received_packets": 45897,
+            "sent_bytes": 114713396,
+            "sent_packets": 105719
+        },
+        "abusim-example-agent14": {
+            "received_bytes": 197943363,
+            "received_packets": 208026,
+            "sent_bytes": 125751056,
+            "sent_packets": 188644
+        },
+        "abusim-example-agent15": {
+            "received_bytes": 199218528,
+            "received_packets": 216838,
+            "sent_bytes": 140552898,
+            "sent_packets": 198866
+        },
+        "abusim-example-agent16": {
+            "received_bytes": 202417375,
+            "received_packets": 238264,
+            "sent_bytes": 178433875,
+            "sent_packets": 224186
+        },
+        "abusim-example-agent17": {
+            "received_bytes": 385775,
+            "received_packets": 4954,
+            "sent_bytes": 12734175,
+            "sent_packets": 39383
+        },
+        "abusim-example-agent18": {
+            "received_bytes": 202204589,
+            "received_packets": 224115,
+            "sent_bytes": 152288415,
+            "sent_packets": 207424
+        },
+        "abusim-example-agent19": {
+            "received_bytes": 213089416,
+            "received_packets": 323780,
+            "sent_bytes": 328349994,
+            "sent_packets": 324589
+        },
+        "abusim-example-agent20": {
+            "received_bytes": 211256337,
+            "received_packets": 304966,
+            "sent_bytes": 295755959,
+            "sent_packets": 302602
+        },
+        "abusim-example-agent21": {
+            "received_bytes": 210405536,
+            "received_packets": 292500,
+            "sent_bytes": 272313669,
+            "sent_packets": 287386
+        },
+        "abusim-example-agent22": {
+            "received_bytes": 211732252,
+            "received_packets": 301634,
+            "sent_bytes": 287497929,
+            "sent_packets": 297941
+        },
+        "abusim-example-agent23": {
+            "received_bytes": 209040759,
+            "received_packets": 281739,
+            "sent_bytes": 253239759,
+            "sent_packets": 274683
+        },
+        "abusim-example-agent24": {
+            "received_bytes": 206599344,
+            "received_packets": 265116,
+            "sent_bytes": 225608609,
+            "sent_packets": 255798
+        },
+        "abusim-example-agent25": {
+            "received_bytes": 206055613,
+            "received_packets": 262030,
+            "sent_bytes": 219724571,
+            "sent_packets": 251709
+        },
+        "abusim-example-agent26": {
+            "received_bytes": 205852088,
+            "received_packets": 261953,
+            "sent_bytes": 219874182,
+            "sent_packets": 251928
+        },
+        "abusim-example-agent27": {
+            "received_bytes": 207212976,
+            "received_packets": 270910,
+            "sent_bytes": 234954995,
+            "sent_packets": 262034
+        },
+        "abusim-example-agent28": {
+            "received_bytes": 191173864,
+            "received_packets": 146073,
+            "sent_bytes": 18206920,
+            "sent_packets": 116991
+        },
+        "abusim-example-agent29": {
+            "received_bytes": 329585,
+            "received_packets": 4239,
+            "sent_bytes": 10561217,
+            "sent_packets": 37917
+        },
+        "abusim-example-agent30": {
+            "received_bytes": 198210131,
+            "received_packets": 195613,
+            "sent_bytes": 103198996,
+            "sent_packets": 173904
+        },
+        "abusim-example-agent31": {
+            "received_bytes": 189083074,
+            "received_packets": 143604,
+            "sent_bytes": 15933872,
+            "sent_packets": 114123
+        },
+        "abusim-example-agent32": {
+            "received_bytes": 191414416,
+            "received_packets": 161929,
+            "sent_bytes": 47832777,
+            "sent_packets": 135482
+        },
+        "abusim-example-agent33": {
+            "received_bytes": 1533586,
+            "received_packets": 21783,
+            "sent_bytes": 55620903,
+            "sent_packets": 67568
+        },
+        "abusim-example-agent34": {
+            "received_bytes": 190983906,
+            "received_packets": 160885,
+            "sent_bytes": 45907257,
+            "sent_packets": 134209
+        },
+        "abusim-example-agent35": {
+            "received_bytes": 192526608,
+            "received_packets": 169750,
+            "sent_bytes": 60140536,
+            "sent_packets": 144121
+        },
+        "abusim-example-agent36": {
+            "received_bytes": 383922,
+            "received_packets": 4814,
+            "sent_bytes": 12355554,
+            "sent_packets": 37754
+        },
+        "abusim-example-agent37": {
+            "received_bytes": 11781788,
+            "received_packets": 170663,
+            "sent_bytes": 421644298,
+            "sent_packets": 315210
+        },
+        "abusim-example-agent38": {
+            "received_bytes": 204834191,
+            "received_packets": 241097,
+            "sent_bytes": 181224975,
+            "sent_packets": 226023
+        },
+        "abusim-example-agent39": {
+            "received_bytes": 215731660,
+            "received_packets": 338474,
+            "sent_bytes": 351603520,
+            "sent_packets": 340557
+        },
+        "abusim-example-agent40": {
+            "received_bytes": 306319,
+            "received_packets": 3356,
+            "sent_bytes": 10389491,
+            "sent_packets": 36477
+        },
+        "abusim-example-agent41": {
+            "received_bytes": 204550808,
+            "received_packets": 252293,
+            "sent_bytes": 202913604,
+            "sent_packets": 240688
+        },
+        "abusim-example-agent42": {
+            "received_bytes": 204657894,
+            "received_packets": 252949,
+            "sent_bytes": 204487351,
+            "sent_packets": 241635
+        },
+        "abusim-example-agent43": {
+            "received_bytes": 199212206,
+            "received_packets": 215602,
+            "sent_bytes": 139383389,
+            "sent_packets": 197711
+        },
+        "abusim-example-agent44": {
+            "received_bytes": 202749797,
+            "received_packets": 240339,
+            "sent_bytes": 182899431,
+            "sent_packets": 226694
+        },
+        "abusim-example-agent45": {
+            "received_bytes": 202809088,
+            "received_packets": 240288,
+            "sent_bytes": 183016945,
+            "sent_packets": 227027
+        },
+        "abusim-example-agent46": {
+            "received_bytes": 306213,
+            "received_packets": 3556,
+            "sent_bytes": 10363585,
+            "sent_packets": 36642
+        },
+        "abusim-example-agent47": {
+            "received_bytes": 199520640,
+            "received_packets": 218474,
+            "sent_bytes": 144595191,
+            "sent_packets": 201321
+        },
+        "abusim-example-agent48": {
+            "received_bytes": 198716626,
+            "received_packets": 212792,
+            "sent_bytes": 134968559,
+            "sent_packets": 194673
+        },
+        "abusim-example-agent49": {
+            "received_bytes": 197129358,
+            "received_packets": 201698,
+            "sent_bytes": 115186032,
+            "sent_packets": 181568
+        },
+        "abusim-example-agent50": {
+            "received_bytes": 200266426,
+            "received_packets": 223246,
+            "sent_bytes": 153000766,
+            "sent_packets": 206899
+        },
+        "abusim-example-agent51": {
+            "received_bytes": 200255648,
+            "received_packets": 223747,
+            "sent_bytes": 153039753,
+            "sent_packets": 207157
+        },
+        "abusim-example-agent52": {
+            "received_bytes": 200867352,
+            "received_packets": 227297,
+            "sent_bytes": 158941212,
+            "sent_packets": 211357
+        },
+        "abusim-example-agent53": {
+            "received_bytes": 202385108,
+            "received_packets": 237532,
+            "sent_bytes": 177703475,
+            "sent_packets": 223465
+        },
+        "abusim-example-agent54": {
+            "received_bytes": 203626979,
+            "received_packets": 245995,
+            "sent_bytes": 191628495,
+            "sent_packets": 232705
+        },
+        "abusim-example-agent55": {
+            "received_bytes": 5846670,
+            "received_packets": 84007,
+            "sent_bytes": 209316070,
+            "sent_packets": 171674
+        },
+        "abusim-example-agent56": {
+            "received_bytes": 201450267,
+            "received_packets": 261055,
+            "sent_bytes": 223074968,
+            "sent_packets": 251861
+        },
+        "abusim-example-agent57": {
+            "received_bytes": 208829998,
+            "received_packets": 282699,
+            "sent_bytes": 254050094,
+            "sent_packets": 274877
+        },
+        "abusim-example-agent58": {
+            "received_bytes": 316755,
+            "received_packets": 3874,
+            "sent_bytes": 10384842,
+            "sent_packets": 37052
+        },
+        "abusim-example-agent59": {
+            "received_bytes": 203747382,
+            "received_packets": 246545,
+            "sent_bytes": 191502402,
+            "sent_packets": 233524
+        },
+        "abusim-example-agent60": {
+            "received_bytes": 4217689,
+            "received_packets": 60444,
+            "sent_bytes": 151278211,
+            "sent_packets": 131275
+        },
+        "abusim-example-agent61": {
+            "received_bytes": 197925804,
+            "received_packets": 207014,
+            "sent_bytes": 124713255,
+            "sent_packets": 187782
+        },
+        "abusim-example-agent62": {
+            "received_bytes": 201064317,
+            "received_packets": 229625,
+            "sent_bytes": 163223777,
+            "sent_packets": 214077
+        },
+        "abusim-example-agent63": {
+            "received_bytes": 200586300,
+            "received_packets": 225114,
+            "sent_bytes": 155587615,
+            "sent_packets": 208522
+        },
+        "abusim-example-agent64": {
+            "received_bytes": 867958,
+            "received_packets": 12200,
+            "sent_bytes": 31422277,
+            "sent_packets": 49815
+        },
+        "abusim-example-agent65": {
+            "received_bytes": 4018145,
+            "received_packets": 57386,
+            "sent_bytes": 143862898,
+            "sent_packets": 127078
+        },
+        "abusim-example-agent66": {
+            "received_bytes": 200672820,
+            "received_packets": 226656,
+            "sent_bytes": 158344494,
+            "sent_packets": 210521
+        },
+        "abusim-example-agent67": {
+            "received_bytes": 201929040,
+            "received_packets": 236101,
+            "sent_bytes": 175244545,
+            "sent_packets": 221678
+        },
+        "abusim-example-agent68": {
+            "received_bytes": 187699644,
+            "received_packets": 161576,
+            "sent_bytes": 51879419,
+            "sent_packets": 136518
+        },
+        "abusim-example-agent69": {
+            "received_bytes": 317969,
+            "received_packets": 4003,
+            "sent_bytes": 10515897,
+            "sent_packets": 37679
+        },
+        "abusim-example-agent70": {
+            "received_bytes": 199151388,
+            "received_packets": 217011,
+            "sent_bytes": 142630053,
+            "sent_packets": 199995
+        },
+        "abusim-example-agent71": {
+            "received_bytes": 199710466,
+            "received_packets": 209110,
+            "sent_bytes": 126654375,
+            "sent_packets": 190128
+        },
+        "abusim-example-agent72": {
+            "received_bytes": 198262731,
+            "received_packets": 209962,
+            "sent_bytes": 130189199,
+            "sent_packets": 191627
+        },
+        "abusim-example-agent73": {
+            "received_bytes": 201655765,
+            "received_packets": 233093,
+            "sent_bytes": 169835926,
+            "sent_packets": 218278
+        },
+        "abusim-example-agent74": {
+            "received_bytes": 201065480,
+            "received_packets": 228586,
+            "sent_bytes": 162326180,
+            "sent_packets": 213304
+        },
+        "abusim-example-agent75": {
+            "received_bytes": 201085845,
+            "received_packets": 229464,
+            "sent_bytes": 163192071,
+            "sent_packets": 214073
+        },
+        "abusim-example-agent76": {
+            "received_bytes": 202666376,
+            "received_packets": 239664,
+            "sent_bytes": 180819671,
+            "sent_packets": 226038
+        },
+        "abusim-example-agent77": {
+            "received_bytes": 203490199,
+            "received_packets": 246028,
+            "sent_bytes": 192270501,
+            "sent_packets": 233104
+        },
+        "abusim-example-agent78": {
+            "received_bytes": 205176259,
+            "received_packets": 257544,
+            "sent_bytes": 211499168,
+            "sent_packets": 246367
+        },
+        "abusim-example-agent79": {
+            "received_bytes": 207191089,
+            "received_packets": 270995,
+            "sent_bytes": 234112388,
+            "sent_packets": 261870
+        },
+        "abusim-example-agent80": {
+            "received_bytes": 6500657,
+            "received_packets": 93636,
+            "sent_bytes": 232019237,
+            "sent_packets": 186420
+        },
+        "abusim-example-agent81": {
+            "received_bytes": 209408708,
+            "received_packets": 285812,
+            "sent_bytes": 260927284,
+            "sent_packets": 279225
+        },
+        "abusim-example-agent82": {
+            "received_bytes": 335277,
+            "received_packets": 4574,
+            "sent_bytes": 10256177,
+            "sent_packets": 37542
+        },
+        "abusim-example-agent83": {
+            "received_bytes": 203228819,
+            "received_packets": 243588,
+            "sent_bytes": 186888935,
+            "sent_packets": 230110
+        },
+        "abusim-example-agent84": {
+            "received_bytes": 201705874,
+            "received_packets": 233238,
+            "sent_bytes": 169738908,
+            "sent_packets": 218361
+        },
+        "abusim-example-agent85": {
+            "received_bytes": 198435778,
+            "received_packets": 210058,
+            "sent_bytes": 130645519,
+            "sent_packets": 191607
+        },
+        "abusim-example-agent86": {
+            "received_bytes": 201771940,
+            "received_packets": 233279,
+            "sent_bytes": 170207520,
+            "sent_packets": 218425
+        },
+        "abusim-example-agent87": {
+            "received_bytes": 201097632,
+            "received_packets": 228668,
+            "sent_bytes": 161859961,
+            "sent_packets": 212912
+        },
+        "abusim-example-agent88": {
+            "received_bytes": 293749,
+            "received_packets": 3512,
+            "sent_bytes": 10236102,
+            "sent_packets": 36363
+        },
+        "abusim-example-agent89": {
+            "received_bytes": 197809643,
+            "received_packets": 206507,
+            "sent_bytes": 123826272,
+            "sent_packets": 187457
+        },
+        "abusim-example-agent90": {
+            "received_bytes": 196843969,
+            "received_packets": 199922,
+            "sent_bytes": 112618995,
+            "sent_packets": 179524
+        },
+        "abusim-example-agent91": {
+            "received_bytes": 195739657,
+            "received_packets": 192178,
+            "sent_bytes": 99498166,
+            "sent_packets": 170775
+        },
+        "abusim-example-agent92": {
+            "received_bytes": 198793256,
+            "received_packets": 212829,
+            "sent_bytes": 134753937,
+            "sent_packets": 194786
+        },
+        "abusim-example-agent93": {
+            "received_bytes": 199229991,
+            "received_packets": 217202,
+            "sent_bytes": 142221793,
+            "sent_packets": 200000
+        },
+        "abusim-example-agent94": {
+            "received_bytes": 200346660,
+            "received_packets": 223943,
+            "sent_bytes": 154529753,
+            "sent_packets": 207923
+        },
+        "abusim-example-agent95": {
+            "received_bytes": 202004103,
+            "received_packets": 236247,
+            "sent_bytes": 175663896,
+            "sent_packets": 222226
+        },
+        "abusim-example-agent96": {
+            "received_bytes": 203357349,
+            "received_packets": 245487,
+            "sent_bytes": 191929075,
+            "sent_packets": 233009
+        },
+        "abusim-example-agent97": {
+            "received_bytes": 205216038,
+            "received_packets": 257774,
+            "sent_bytes": 211598072,
+            "sent_packets": 246713
+        },
+        "abusim-example-agent98": {
+            "received_bytes": 207254542,
+            "received_packets": 271452,
+            "sent_bytes": 233687535,
+            "sent_packets": 262374
+        },
+        "abusim-example-agent99": {
+            "received_bytes": 209032268,
+            "received_packets": 283341,
+            "sent_bytes": 254643037,
+            "sent_packets": 276440
+        }
+    },
+    {
+        "abusim-example-agent0": {
+            "received_bytes": 7614744,
+            "received_packets": 109647,
+            "sent_bytes": 268500791,
+            "sent_packets": 205029
+        },
+        "abusim-example-agent1": {
+            "received_bytes": 160426392,
+            "received_packets": 261659,
+            "sent_bytes": 279540359,
+            "sent_packets": 265412
+        },
+        "abusim-example-agent2": {
+            "received_bytes": 160746624,
+            "received_packets": 265016,
+            "sent_bytes": 285191295,
+            "sent_packets": 269485
+        },
+        "abusim-example-agent3": {
+            "received_bytes": 161058932,
+            "received_packets": 265996,
+            "sent_bytes": 286497038,
+            "sent_packets": 270165
+        },
+        "abusim-example-agent4": {
+            "received_bytes": 161060203,
+            "received_packets": 265774,
+            "sent_bytes": 286906080,
+            "sent_packets": 270252
+        },
+        "abusim-example-agent5": {
+            "received_bytes": 161069762,
+            "received_packets": 265622,
+            "sent_bytes": 286411981,
+            "sent_packets": 269703
+        },
+        "abusim-example-agent6": {
+            "received_bytes": 276166,
+            "received_packets": 2956,
+            "sent_bytes": 7458171,
+            "sent_packets": 27298
+        },
+        "abusim-example-agent7": {
+            "received_bytes": 153321719,
+            "received_packets": 212688,
+            "sent_bytes": 192411350,
+            "sent_packets": 208624
+        },
+        "abusim-example-agent8": {
+            "received_bytes": 400531,
+            "received_packets": 4814,
+            "sent_bytes": 11773303,
+            "sent_packets": 30111
+        },
+        "abusim-example-agent9": {
+            "received_bytes": 145160688,
+            "received_packets": 143027,
+            "sent_bytes": 73568503,
+            "sent_packets": 126699
+        },
+        "abusim-example-agent10": {
+            "received_bytes": 146921954,
+            "received_packets": 155283,
+            "sent_bytes": 95153493,
+            "sent_packets": 141160
+        },
+        "abusim-example-agent11": {
+            "received_bytes": 1787801,
+            "received_packets": 24653,
+            "sent_bytes": 60409401,
+            "sent_packets": 62750
+        },
+        "abusim-example-agent12": {
+            "received_bytes": 285847,
+            "received_packets": 3084,
+            "sent_bytes": 7345749,
+            "sent_packets": 26702
+        },
+        "abusim-example-agent13": {
+            "received_bytes": 1734077,
+            "received_packets": 24048,
+            "sent_bytes": 59404606,
+            "sent_packets": 61952
+        },
+        "abusim-example-agent14": {
+            "received_bytes": 141326269,
+            "received_packets": 130720,
+            "sent_bytes": 55156945,
+            "sent_packets": 113184
+        },
+        "abusim-example-agent15": {
+            "received_bytes": 141417065,
+            "received_packets": 131844,
+            "sent_bytes": 56887405,
+            "sent_packets": 114552
+        },
+        "abusim-example-agent16": {
+            "received_bytes": 143461511,
+            "received_packets": 145870,
+            "sent_bytes": 81501552,
+            "sent_packets": 131032
+        },
+        "abusim-example-agent17": {
+            "received_bytes": 353344,
+            "received_packets": 3997,
+            "sent_bytes": 9628733,
+            "sent_packets": 28372
+        },
+        "abusim-example-agent18": {
+            "received_bytes": 145028329,
+            "received_packets": 143348,
+            "sent_bytes": 74511910,
+            "sent_packets": 127590
+        },
+        "abusim-example-agent19": {
+            "received_bytes": 143477617,
+            "received_packets": 146168,
+            "sent_bytes": 81859750,
+            "sent_packets": 131469
+        },
+        "abusim-example-agent20": {
+            "received_bytes": 143361366,
+            "received_packets": 144459,
+            "sent_bytes": 79092775,
+            "sent_packets": 129603
+        },
+        "abusim-example-agent21": {
+            "received_bytes": 145963139,
+            "received_packets": 163210,
+            "sent_bytes": 110650724,
+            "sent_packets": 151026
+        },
+        "abusim-example-agent22": {
+            "received_bytes": 147092970,
+            "received_packets": 170941,
+            "sent_bytes": 123839625,
+            "sent_packets": 160005
+        },
+        "abusim-example-agent23": {
+            "received_bytes": 148306444,
+            "received_packets": 179555,
+            "sent_bytes": 139325635,
+            "sent_packets": 170239
+        },
+        "abusim-example-agent24": {
+            "received_bytes": 150267450,
+            "received_packets": 193189,
+            "sent_bytes": 163250667,
+            "sent_packets": 186226
+        },
+        "abusim-example-agent25": {
+            "received_bytes": 152071535,
+            "received_packets": 205168,
+            "sent_bytes": 183491143,
+            "sent_packets": 199945
+        },
+        "abusim-example-agent26": {
+            "received_bytes": 153895371,
+            "received_packets": 218198,
+            "sent_bytes": 205273854,
+            "sent_packets": 214976
+        },
+        "abusim-example-agent27": {
+            "received_bytes": 156017277,
+            "received_packets": 232247,
+            "sent_bytes": 230163721,
+            "sent_packets": 231400
+        },
+        "abusim-example-agent28": {
+            "received_bytes": 140030003,
+            "received_packets": 107760,
+            "sent_bytes": 13787896,
+            "sent_packets": 86716
+        },
+        "abusim-example-agent29": {
+            "received_bytes": 281229,
+            "received_packets": 3177,
+            "sent_bytes": 7401735,
+            "sent_packets": 27120
+        },
+        "abusim-example-agent30": {
+            "received_bytes": 147233424,
+            "received_packets": 157783,
+            "sent_bytes": 98794502,
+            "sent_packets": 143802
+        },
+        "abusim-example-agent31": {
+            "received_bytes": 137867843,
+            "received_packets": 105117,
+            "sent_bytes": 11327360,
+            "sent_packets": 83621
+        },
+        "abusim-example-agent32": {
+            "received_bytes": 140456861,
+            "received_packets": 124570,
+            "sent_bytes": 43910143,
+            "sent_packets": 106013
+        },
+        "abusim-example-agent33": {
+            "received_bytes": 1546704,
+            "received_packets": 21389,
+            "sent_bytes": 52420589,
+            "sent_packets": 57234
+        },
+        "abusim-example-agent34": {
+            "received_bytes": 140191541,
+            "received_packets": 122845,
+            "sent_bytes": 41331165,
+            "sent_packets": 104077
+        },
+        "abusim-example-agent35": {
+            "received_bytes": 141380711,
+            "received_packets": 131228,
+            "sent_bytes": 55770019,
+            "sent_packets": 113854
+        },
+        "abusim-example-agent36": {
+            "received_bytes": 369258,
+            "received_packets": 4272,
+            "sent_bytes": 9603030,
+            "sent_packets": 28515
+        },
+        "abusim-example-agent37": {
+            "received_bytes": 1373262,
+            "received_packets": 19273,
+            "sent_bytes": 46274424,
+            "sent_packets": 53565
+        },
+        "abusim-example-agent38": {
+            "received_bytes": 143772532,
+            "received_packets": 134412,
+            "sent_bytes": 58935048,
+            "sent_packets": 116762
+        },
+        "abusim-example-agent39": {
+            "received_bytes": 141982129,
+            "received_packets": 136466,
+            "sent_bytes": 64441292,
+            "sent_packets": 119832
+        },
+        "abusim-example-agent40": {
+            "received_bytes": 296516,
+            "received_packets": 3429,
+            "sent_bytes": 7355397,
+            "sent_packets": 27052
+        },
+        "abusim-example-agent41": {
+            "received_bytes": 142608314,
+            "received_packets": 139705,
+            "sent_bytes": 71054153,
+            "sent_packets": 124027
+        },
+        "abusim-example-agent42": {
+            "received_bytes": 142667244,
+            "received_packets": 140357,
+            "sent_bytes": 72195857,
+            "sent_packets": 124785
+        },
+        "abusim-example-agent43": {
+            "received_bytes": 142525383,
+            "received_packets": 139620,
+            "sent_bytes": 70093612,
+            "sent_packets": 123710
+        },
+        "abusim-example-agent44": {
+            "received_bytes": 144744322,
+            "received_packets": 155058,
+            "sent_bytes": 96937999,
+            "sent_packets": 141806
+        },
+        "abusim-example-agent45": {
+            "received_bytes": 145595975,
+            "received_packets": 160715,
+            "sent_bytes": 106801870,
+            "sent_packets": 148214
+        },
+        "abusim-example-agent46": {
+            "received_bytes": 270570,
+            "received_packets": 3322,
+            "sent_bytes": 7388538,
+            "sent_packets": 27156
+        },
+        "abusim-example-agent47": {
+            "received_bytes": 144709440,
+            "received_packets": 154665,
+            "sent_bytes": 96742298,
+            "sent_packets": 141486
+        },
+        "abusim-example-agent48": {
+            "received_bytes": 144854178,
+            "received_packets": 155286,
+            "sent_bytes": 97448246,
+            "sent_packets": 141987
+        },
+        "abusim-example-agent49": {
+            "received_bytes": 144360509,
+            "received_packets": 152522,
+            "sent_bytes": 91994558,
+            "sent_packets": 138750
+        },
+        "abusim-example-agent50": {
+            "received_bytes": 147375687,
+            "received_packets": 173184,
+            "sent_bytes": 127648517,
+            "sent_packets": 162741
+        },
+        "abusim-example-agent51": {
+            "received_bytes": 148165451,
+            "received_packets": 178477,
+            "sent_bytes": 137185450,
+            "sent_packets": 168876
+        },
+        "abusim-example-agent52": {
+            "received_bytes": 149322814,
+            "received_packets": 185811,
+            "sent_bytes": 149482028,
+            "sent_packets": 177155
+        },
+        "abusim-example-agent53": {
+            "received_bytes": 151072568,
+            "received_packets": 197875,
+            "sent_bytes": 170352747,
+            "sent_packets": 191551
+        },
+        "abusim-example-agent54": {
+            "received_bytes": 152434921,
+            "received_packets": 207117,
+            "sent_bytes": 186677574,
+            "sent_packets": 202060
+        },
+        "abusim-example-agent55": {
+            "received_bytes": 5823684,
+            "received_packets": 83261,
+            "sent_bytes": 206076814,
+            "sent_packets": 161012
+        },
+        "abusim-example-agent56": {
+            "received_bytes": 156084075,
+            "received_packets": 232426,
+            "sent_bytes": 230039751,
+            "sent_packets": 231425
+        },
+        "abusim-example-agent57": {
+            "received_bytes": 157876821,
+            "received_packets": 244274,
+            "sent_bytes": 250093218,
+            "sent_packets": 244444
+        },
+        "abusim-example-agent58": {
+            "received_bytes": 300223,
+            "received_packets": 3416,
+            "sent_bytes": 7451583,
+            "sent_packets": 27446
+        },
+        "abusim-example-agent59": {
+            "received_bytes": 152655728,
+            "received_packets": 208131,
+            "sent_bytes": 187543034,
+            "sent_packets": 203245
+        },
+        "abusim-example-agent60": {
+            "received_bytes": 4597877,
+            "received_packets": 65727,
+            "sent_bytes": 162376265,
+            "sent_packets": 131662
+        },
+        "abusim-example-agent61": {
+            "received_bytes": 147266634,
+            "received_packets": 171960,
+            "sent_bytes": 125836993,
+            "sent_packets": 161240
+        },
+        "abusim-example-agent62": {
+            "received_bytes": 150614896,
+            "received_packets": 194580,
+            "sent_bytes": 164606178,
+            "sent_packets": 187373
+        },
+        "abusim-example-agent63": {
+            "received_bytes": 149909208,
+            "received_packets": 189763,
+            "sent_bytes": 156851776,
+            "sent_packets": 181832
+        },
+        "abusim-example-agent64": {
+            "received_bytes": 299213,
+            "received_packets": 3295,
+            "sent_bytes": 7432650,
+            "sent_packets": 27278
+        },
+        "abusim-example-agent65": {
+            "received_bytes": 3345296,
+            "received_packets": 47497,
+            "sent_bytes": 117283409,
+            "sent_packets": 101083
+        },
+        "abusim-example-agent66": {
+            "received_bytes": 145694992,
+            "received_packets": 161194,
+            "sent_bytes": 107649473,
+            "sent_packets": 148879
+        },
+        "abusim-example-agent67": {
+            "received_bytes": 144662411,
+            "received_packets": 153806,
+            "sent_bytes": 94647954,
+            "sent_packets": 139987
+        },
+        "abusim-example-agent68": {
+            "received_bytes": 138795134,
+            "received_packets": 107024,
+            "sent_bytes": 13683438,
+            "sent_packets": 85993
+        },
+        "abusim-example-agent69": {
+            "received_bytes": 293648,
+            "received_packets": 2957,
+            "sent_bytes": 7341904,
+            "sent_packets": 26697
+        },
+        "abusim-example-agent70": {
+            "received_bytes": 140697264,
+            "received_packets": 126651,
+            "sent_bytes": 47920516,
+            "sent_packets": 108675
+        },
+        "abusim-example-agent71": {
+            "received_bytes": 141171988,
+            "received_packets": 115882,
+            "sent_bytes": 27986697,
+            "sent_packets": 95530
+        },
+        "abusim-example-agent72": {
+            "received_bytes": 139643810,
+            "received_packets": 119361,
+            "sent_bytes": 35975258,
+            "sent_packets": 100273
+        },
+        "abusim-example-agent73": {
+            "received_bytes": 140749104,
+            "received_packets": 127127,
+            "sent_bytes": 48668673,
+            "sent_packets": 108974
+        },
+        "abusim-example-agent74": {
+            "received_bytes": 141047954,
+            "received_packets": 129580,
+            "sent_bytes": 53209225,
+            "sent_packets": 112223
+        },
+        "abusim-example-agent75": {
+            "received_bytes": 142512214,
+            "received_packets": 139562,
+            "sent_bytes": 70349978,
+            "sent_packets": 123625
+        },
+        "abusim-example-agent76": {
+            "received_bytes": 144526441,
+            "received_packets": 153334,
+            "sent_bytes": 94153743,
+            "sent_packets": 139723
+        },
+        "abusim-example-agent77": {
+            "received_bytes": 146876505,
+            "received_packets": 169689,
+            "sent_bytes": 122940332,
+            "sent_packets": 158778
+        },
+        "abusim-example-agent78": {
+            "received_bytes": 150037714,
+            "received_packets": 191780,
+            "sent_bytes": 159801429,
+            "sent_packets": 184157
+        },
+        "abusim-example-agent79": {
+            "received_bytes": 153378179,
+            "received_packets": 214192,
+            "sent_bytes": 198071501,
+            "sent_packets": 209780
+        },
+        "abusim-example-agent80": {
+            "received_bytes": 6569097,
+            "received_packets": 94254,
+            "sent_bytes": 233106732,
+            "sent_packets": 179302
+        },
+        "abusim-example-agent81": {
+            "received_bytes": 158744614,
+            "received_packets": 250001,
+            "sent_bytes": 260516618,
+            "sent_packets": 251646
+        },
+        "abusim-example-agent82": {
+            "received_bytes": 301823,
+            "received_packets": 3561,
+            "sent_bytes": 7371654,
+            "sent_packets": 27588
+        },
+        "abusim-example-agent83": {
+            "received_bytes": 153064740,
+            "received_packets": 210913,
+            "sent_bytes": 193383508,
+            "sent_packets": 206405
+        },
+        "abusim-example-agent84": {
+            "received_bytes": 150772733,
+            "received_packets": 195461,
+            "sent_bytes": 165979040,
+            "sent_packets": 188546
+        },
+        "abusim-example-agent85": {
+            "received_bytes": 147193849,
+            "received_packets": 171883,
+            "sent_bytes": 126074998,
+            "sent_packets": 161130
+        },
+        "abusim-example-agent86": {
+            "received_bytes": 150652006,
+            "received_packets": 194871,
+            "sent_bytes": 165789553,
+            "sent_packets": 187943
+        },
+        "abusim-example-agent87": {
+            "received_bytes": 150020813,
+            "received_packets": 190236,
+            "sent_bytes": 157482501,
+            "sent_packets": 182342
+        },
+        "abusim-example-agent88": {
+            "received_bytes": 292891,
+            "received_packets": 3402,
+            "sent_bytes": 7371761,
+            "sent_packets": 27258
+        },
+        "abusim-example-agent89": {
+            "received_bytes": 146703135,
+            "received_packets": 168027,
+            "sent_bytes": 119411694,
+            "sent_packets": 156997
+        },
+        "abusim-example-agent90": {
+            "received_bytes": 145725845,
+            "received_packets": 161694,
+            "sent_bytes": 108135692,
+            "sent_packets": 149485
+        },
+        "abusim-example-agent91": {
+            "received_bytes": 144665510,
+            "received_packets": 154101,
+            "sent_bytes": 95073746,
+            "sent_packets": 140624
+        },
+        "abusim-example-agent92": {
+            "received_bytes": 147506912,
+            "received_packets": 174371,
+            "sent_bytes": 130531139,
+            "sent_packets": 164158
+        },
+        "abusim-example-agent93": {
+            "received_bytes": 148227210,
+            "received_packets": 178903,
+            "sent_bytes": 137864431,
+            "sent_packets": 169484
+        },
+        "abusim-example-agent94": {
+            "received_bytes": 149348078,
+            "received_packets": 185802,
+            "sent_bytes": 150200496,
+            "sent_packets": 177362
+        },
+        "abusim-example-agent95": {
+            "received_bytes": 150998339,
+            "received_packets": 197815,
+            "sent_bytes": 171427841,
+            "sent_packets": 191568
+        },
+        "abusim-example-agent96": {
+            "received_bytes": 152445554,
+            "received_packets": 207425,
+            "sent_bytes": 187585753,
+            "sent_packets": 202571
+        },
+        "abusim-example-agent97": {
+            "received_bytes": 154062961,
+            "received_packets": 218956,
+            "sent_bytes": 207083381,
+            "sent_packets": 215764
+        },
+        "abusim-example-agent98": {
+            "received_bytes": 156114851,
+            "received_packets": 232686,
+            "sent_bytes": 229148738,
+            "sent_packets": 231663
+        },
+        "abusim-example-agent99": {
+            "received_bytes": 157817371,
+            "received_packets": 244730,
+            "sent_bytes": 249848866,
+            "sent_packets": 245796
+        }
+    },
+    {
+        "abusim-example-agent0": {
+            "received_bytes": 917219,
+            "received_packets": 12385,
+            "sent_bytes": 31910392,
+            "sent_packets": 50607
+        },
+        "abusim-example-agent1": {
+            "received_bytes": 210065584,
+            "received_packets": 265282,
+            "sent_bytes": 222652460,
+            "sent_packets": 254797
+        },
+        "abusim-example-agent2": {
+            "received_bytes": 209851884,
+            "received_packets": 263807,
+            "sent_bytes": 220066209,
+            "sent_packets": 253241
+        },
+        "abusim-example-agent3": {
+            "received_bytes": 209325389,
+            "received_packets": 260621,
+            "sent_bytes": 214321510,
+            "sent_packets": 249135
+        },
+        "abusim-example-agent4": {
+            "received_bytes": 214083655,
+            "received_packets": 291638,
+            "sent_bytes": 267506114,
+            "sent_packets": 285329
+        },
+        "abusim-example-agent5": {
+            "received_bytes": 214809378,
+            "received_packets": 296304,
+            "sent_bytes": 274839617,
+            "sent_packets": 290059
+        },
+        "abusim-example-agent6": {
+            "received_bytes": 305462,
+            "received_packets": 3272,
+            "sent_bytes": 10252622,
+            "sent_packets": 35923
+        },
+        "abusim-example-agent7": {
+            "received_bytes": 208398073,
+            "received_packets": 251899,
+            "sent_bytes": 196559865,
+            "sent_packets": 239282
+        },
+        "abusim-example-agent8": {
+            "received_bytes": 406705,
+            "received_packets": 5012,
+            "sent_bytes": 14131483,
+            "sent_packets": 37456
+        },
+        "abusim-example-agent9": {
+            "received_bytes": 200236809,
+            "received_packets": 182587,
+            "sent_bytes": 78064710,
+            "sent_packets": 157576
+        },
+        "abusim-example-agent10": {
+            "received_bytes": 201896972,
+            "received_packets": 194780,
+            "sent_bytes": 99291380,
+            "sent_packets": 172022
+        },
+        "abusim-example-agent11": {
+            "received_bytes": 812552,
+            "received_packets": 11030,
+            "sent_bytes": 28920608,
+            "sent_packets": 46895
+        },
+        "abusim-example-agent12": {
+            "received_bytes": 292313,
+            "received_packets": 3351,
+            "sent_bytes": 10161440,
+            "sent_packets": 35284
+        },
+        "abusim-example-agent13": {
+            "received_bytes": 793260,
+            "received_packets": 10642,
+            "sent_bytes": 27972579,
+            "sent_packets": 46855
+        },
+        "abusim-example-agent14": {
+            "received_bytes": 195916310,
+            "received_packets": 167050,
+            "sent_bytes": 53364649,
+            "sent_packets": 140163
+        },
+        "abusim-example-agent15": {
+            "received_bytes": 196327697,
+            "received_packets": 169233,
+            "sent_bytes": 57384511,
+            "sent_packets": 142705
+        },
+        "abusim-example-agent16": {
+            "received_bytes": 198164678,
+            "received_packets": 183183,
+            "sent_bytes": 82027563,
+            "sent_packets": 159463
+        },
+        "abusim-example-agent17": {
+            "received_bytes": 349453,
+            "received_packets": 4192,
+            "sent_bytes": 12467945,
+            "sent_packets": 37142
+        },
+        "abusim-example-agent18": {
+            "received_bytes": 200185624,
+            "received_packets": 182757,
+            "sent_bytes": 78870619,
+            "sent_packets": 158190
+        },
+        "abusim-example-agent19": {
+            "received_bytes": 198632348,
+            "received_packets": 185611,
+            "sent_bytes": 86337243,
+            "sent_packets": 162565
+        },
+        "abusim-example-agent20": {
+            "received_bytes": 198402275,
+            "received_packets": 184219,
+            "sent_bytes": 83577077,
+            "sent_packets": 160528
+        },
+        "abusim-example-agent21": {
+            "received_bytes": 200839684,
+            "received_packets": 202492,
+            "sent_bytes": 115071426,
+            "sent_packets": 181543
+        },
+        "abusim-example-agent22": {
+            "received_bytes": 202190171,
+            "received_packets": 210312,
+            "sent_bytes": 128148295,
+            "sent_packets": 190830
+        },
+        "abusim-example-agent23": {
+            "received_bytes": 203408041,
+            "received_packets": 219189,
+            "sent_bytes": 143813773,
+            "sent_packets": 201214
+        },
+        "abusim-example-agent24": {
+            "received_bytes": 205490849,
+            "received_packets": 233141,
+            "sent_bytes": 167798774,
+            "sent_packets": 217422
+        },
+        "abusim-example-agent25": {
+            "received_bytes": 207235837,
+            "received_packets": 244718,
+            "sent_bytes": 187987103,
+            "sent_packets": 230632
+        },
+        "abusim-example-agent26": {
+            "received_bytes": 208972820,
+            "received_packets": 257617,
+            "sent_bytes": 209671401,
+            "sent_packets": 245655
+        },
+        "abusim-example-agent27": {
+            "received_bytes": 211149884,
+            "received_packets": 272017,
+            "sent_bytes": 234305231,
+            "sent_packets": 262269
+        },
+        "abusim-example-agent28": {
+            "received_bytes": 194980885,
+            "received_packets": 147338,
+            "sent_bytes": 18149949,
+            "sent_packets": 117466
+        },
+        "abusim-example-agent29": {
+            "received_bytes": 322837,
+            "received_packets": 3830,
+            "sent_bytes": 10281167,
+            "sent_packets": 36275
+        },
+        "abusim-example-agent30": {
+            "received_bytes": 202351801,
+            "received_packets": 196785,
+            "sent_bytes": 103160406,
+            "sent_packets": 174143
+        },
+        "abusim-example-agent31": {
+            "received_bytes": 193091956,
+            "received_packets": 144814,
+            "sent_bytes": 15793278,
+            "sent_packets": 114682
+        },
+        "abusim-example-agent32": {
+            "received_bytes": 195395989,
+            "received_packets": 163624,
+            "sent_bytes": 48299479,
+            "sent_packets": 136585
+        },
+        "abusim-example-agent33": {
+            "received_bytes": 1417492,
+            "received_packets": 19623,
+            "sent_bytes": 50126279,
+            "sent_packets": 61236
+        },
+        "abusim-example-agent34": {
+            "received_bytes": 195242024,
+            "received_packets": 162251,
+            "sent_bytes": 45820844,
+            "sent_packets": 135013
+        },
+        "abusim-example-agent35": {
+            "received_bytes": 196496697,
+            "received_packets": 170670,
+            "sent_bytes": 60210019,
+            "sent_packets": 144431
+        },
+        "abusim-example-agent36": {
+            "received_bytes": 340395,
+            "received_packets": 3896,
+            "sent_bytes": 12379057,
+            "sent_packets": 36585
+        },
+        "abusim-example-agent37": {
+            "received_bytes": 1377072,
+            "received_packets": 19433,
+            "sent_bytes": 48725498,
+            "sent_packets": 61457
+        },
+        "abusim-example-agent38": {
+            "received_bytes": 198804093,
+            "received_packets": 173808,
+            "sent_bytes": 63286228,
+            "sent_packets": 147487
+        },
+        "abusim-example-agent39": {
+            "received_bytes": 196954653,
+            "received_packets": 175383,
+            "sent_bytes": 68723634,
+            "sent_packets": 150392
+        },
+        "abusim-example-agent40": {
+            "received_bytes": 289003,
+            "received_packets": 3122,
+            "sent_bytes": 10200826,
+            "sent_packets": 35239
+        },
+        "abusim-example-agent41": {
+            "received_bytes": 197474873,
+            "received_packets": 179438,
+            "sent_bytes": 75452414,
+            "sent_packets": 155078
+        },
+        "abusim-example-agent42": {
+            "received_bytes": 197724224,
+            "received_packets": 179912,
+            "sent_bytes": 76620125,
+            "sent_packets": 155683
+        },
+        "abusim-example-agent43": {
+            "received_bytes": 197562539,
+            "received_packets": 178726,
+            "sent_bytes": 74481750,
+            "sent_packets": 154140
+        },
+        "abusim-example-agent44": {
+            "received_bytes": 199862701,
+            "received_packets": 194571,
+            "sent_bytes": 101134451,
+            "sent_packets": 172362
+        },
+        "abusim-example-agent45": {
+            "received_bytes": 200691857,
+            "received_packets": 200416,
+            "sent_bytes": 111242045,
+            "sent_packets": 179242
+        },
+        "abusim-example-agent46": {
+            "received_bytes": 19481482,
+            "received_packets": 282370,
+            "sent_bytes": 693919085,
+            "sent_packets": 498966
+        },
+        "abusim-example-agent47": {
+            "received_bytes": 222945031,
+            "received_packets": 353356,
+            "sent_bytes": 374396302,
+            "sent_packets": 357029
+        },
+        "abusim-example-agent48": {
+            "received_bytes": 231985829,
+            "received_packets": 414648,
+            "sent_bytes": 480241336,
+            "sent_packets": 428377
+        },
+        "abusim-example-agent49": {
+            "received_bytes": 243164185,
+            "received_packets": 493631,
+            "sent_bytes": 613835733,
+            "sent_packets": 520246
+        },
+        "abusim-example-agent50": {
+            "received_bytes": 239309057,
+            "received_packets": 465071,
+            "sent_bytes": 566330826,
+            "sent_packets": 487633
+        },
+        "abusim-example-agent51": {
+            "received_bytes": 243381314,
+            "received_packets": 494732,
+            "sent_bytes": 616649876,
+            "sent_packets": 522185
+        },
+        "abusim-example-agent52": {
+            "received_bytes": 245429599,
+            "received_packets": 506641,
+            "sent_bytes": 636311172,
+            "sent_packets": 535168
+        },
+        "abusim-example-agent53": {
+            "received_bytes": 243256137,
+            "received_packets": 489970,
+            "sent_bytes": 607483558,
+            "sent_packets": 516183
+        },
+        "abusim-example-agent54": {
+            "received_bytes": 241273944,
+            "received_packets": 475383,
+            "sent_bytes": 583312214,
+            "sent_packets": 498958
+        },
+        "abusim-example-agent55": {
+            "received_bytes": 14880521,
+            "received_packets": 214904,
+            "sent_bytes": 532327268,
+            "sent_packets": 389980
+        },
+        "abusim-example-agent56": {
+            "received_bytes": 230620435,
+            "received_packets": 405217,
+            "sent_bytes": 462234984,
+            "sent_packets": 417119
+        },
+        "abusim-example-agent57": {
+            "received_bytes": 225762527,
+            "received_packets": 369202,
+            "sent_bytes": 401039484,
+            "sent_packets": 374827
+        },
+        "abusim-example-agent58": {
+            "received_bytes": 268478,
+            "received_packets": 3313,
+            "sent_bytes": 10229068,
+            "sent_packets": 35731
+        },
+        "abusim-example-agent59": {
+            "received_bytes": 210465535,
+            "received_packets": 265846,
+            "sent_bytes": 223383425,
+            "sent_packets": 254957
+        },
+        "abusim-example-agent60": {
+            "received_bytes": 4871349,
+            "received_packets": 69582,
+            "sent_bytes": 174554804,
+            "sent_packets": 146628
+        },
+        "abusim-example-agent61": {
+            "received_bytes": 202326469,
+            "received_packets": 211484,
+            "sent_bytes": 130229579,
+            "sent_packets": 192199
+        },
+        "abusim-example-agent62": {
+            "received_bytes": 205666394,
+            "received_packets": 233782,
+            "sent_bytes": 168853469,
+            "sent_packets": 217933
+        },
+        "abusim-example-agent63": {
+            "received_bytes": 204652494,
+            "received_packets": 229194,
+            "sent_bytes": 161232656,
+            "sent_packets": 212556
+        },
+        "abusim-example-agent64": {
+            "received_bytes": 313717,
+            "received_packets": 3539,
+            "sent_bytes": 10283283,
+            "sent_packets": 35946
+        },
+        "abusim-example-agent65": {
+            "received_bytes": 3141108,
+            "received_packets": 44472,
+            "sent_bytes": 111117285,
+            "sent_packets": 103418
+        },
+        "abusim-example-agent66": {
+            "received_bytes": 200482735,
+            "received_packets": 199859,
+            "sent_bytes": 110285897,
+            "sent_packets": 178418
+        },
+        "abusim-example-agent67": {
+            "received_bytes": 199609147,
+            "received_packets": 192229,
+            "sent_bytes": 97497387,
+            "sent_packets": 169975
+        },
+        "abusim-example-agent68": {
+            "received_bytes": 193840372,
+            "received_packets": 146238,
+            "sent_bytes": 17942798,
+            "sent_packets": 116645
+        },
+        "abusim-example-agent69": {
+            "received_bytes": 305633,
+            "received_packets": 3615,
+            "sent_bytes": 9980346,
+            "sent_packets": 35194
+        },
+        "abusim-example-agent70": {
+            "received_bytes": 195669703,
+            "received_packets": 165859,
+            "sent_bytes": 52329284,
+            "sent_packets": 139344
+        },
+        "abusim-example-agent71": {
+            "received_bytes": 196272849,
+            "received_packets": 155562,
+            "sent_bytes": 32429629,
+            "sent_packets": 126490
+        },
+        "abusim-example-agent72": {
+            "received_bytes": 194796554,
+            "received_packets": 159061,
+            "sent_bytes": 40338828,
+            "sent_packets": 131256
+        },
+        "abusim-example-agent73": {
+            "received_bytes": 195771811,
+            "received_packets": 166369,
+            "sent_bytes": 53066673,
+            "sent_packets": 139878
+        },
+        "abusim-example-agent74": {
+            "received_bytes": 196056678,
+            "received_packets": 168826,
+            "sent_bytes": 57379411,
+            "sent_packets": 142883
+        },
+        "abusim-example-agent75": {
+            "received_bytes": 197644528,
+            "received_packets": 178993,
+            "sent_bytes": 74771694,
+            "sent_packets": 154426
+        },
+        "abusim-example-agent76": {
+            "received_bytes": 199513511,
+            "received_packets": 192951,
+            "sent_bytes": 98488234,
+            "sent_packets": 170758
+        },
+        "abusim-example-agent77": {
+            "received_bytes": 201983062,
+            "received_packets": 209605,
+            "sent_bytes": 127259849,
+            "sent_packets": 190197
+        },
+        "abusim-example-agent78": {
+            "received_bytes": 205128085,
+            "received_packets": 231488,
+            "sent_bytes": 164321592,
+            "sent_packets": 215390
+        },
+        "abusim-example-agent79": {
+            "received_bytes": 208409384,
+            "received_packets": 253257,
+            "sent_bytes": 202260223,
+            "sent_packets": 240286
+        },
+        "abusim-example-agent80": {
+            "received_bytes": 6566445,
+            "received_packets": 94651,
+            "sent_bytes": 235904699,
+            "sent_packets": 188000
+        },
+        "abusim-example-agent81": {
+            "received_bytes": 213633195,
+            "received_packets": 289294,
+            "sent_bytes": 264765192,
+            "sent_packets": 282443
+        },
+        "abusim-example-agent82": {
+            "received_bytes": 313359,
+            "received_packets": 3755,
+            "sent_bytes": 9787529,
+            "sent_packets": 34998
+        },
+        "abusim-example-agent83": {
+            "received_bytes": 208126579,
+            "received_packets": 250375,
+            "sent_bytes": 197320999,
+            "sent_packets": 237206
+        },
+        "abusim-example-agent84": {
+            "received_bytes": 205802758,
+            "received_packets": 234597,
+            "sent_bytes": 170240265,
+            "sent_packets": 219294
+        },
+        "abusim-example-agent85": {
+            "received_bytes": 202387667,
+            "received_packets": 211674,
+            "sent_bytes": 130436058,
+            "sent_packets": 192418
+        },
+        "abusim-example-agent86": {
+            "received_bytes": 205896385,
+            "received_packets": 234807,
+            "sent_bytes": 170328407,
+            "sent_packets": 219228
+        },
+        "abusim-example-agent87": {
+            "received_bytes": 205109540,
+            "received_packets": 230013,
+            "sent_bytes": 161888090,
+            "sent_packets": 213571
+        },
+        "abusim-example-agent88": {
+            "received_bytes": 295737,
+            "received_packets": 3702,
+            "sent_bytes": 9996751,
+            "sent_packets": 35401
+        },
+        "abusim-example-agent89": {
+            "received_bytes": 201784842,
+            "received_packets": 207692,
+            "sent_bytes": 123946815,
+            "sent_packets": 188188
+        },
+        "abusim-example-agent90": {
+            "received_bytes": 200632132,
+            "received_packets": 200564,
+            "sent_bytes": 112593374,
+            "sent_packets": 179872
+        },
+        "abusim-example-agent91": {
+            "received_bytes": 199614896,
+            "received_packets": 193148,
+            "sent_bytes": 99492666,
+            "sent_packets": 171210
+        },
+        "abusim-example-agent92": {
+            "received_bytes": 202639468,
+            "received_packets": 213782,
+            "sent_bytes": 134786358,
+            "sent_packets": 195170
+        },
+        "abusim-example-agent93": {
+            "received_bytes": 203298379,
+            "received_packets": 218444,
+            "sent_bytes": 142252963,
+            "sent_packets": 200251
+        },
+        "abusim-example-agent94": {
+            "received_bytes": 204393812,
+            "received_packets": 225754,
+            "sent_bytes": 154631581,
+            "sent_packets": 208772
+        },
+        "abusim-example-agent95": {
+            "received_bytes": 206144609,
+            "received_packets": 237735,
+            "sent_bytes": 175879445,
+            "sent_packets": 222658
+        },
+        "abusim-example-agent96": {
+            "received_bytes": 207489471,
+            "received_packets": 247288,
+            "sent_bytes": 191826509,
+            "sent_packets": 233893
+        },
+        "abusim-example-agent97": {
+            "received_bytes": 209206272,
+            "received_packets": 259117,
+            "sent_bytes": 211370383,
+            "sent_packets": 247177
+        },
+        "abusim-example-agent98": {
+            "received_bytes": 211300116,
+            "received_packets": 272681,
+            "sent_bytes": 233592300,
+            "sent_packets": 263057
+        },
+        "abusim-example-agent99": {
+            "received_bytes": 212979272,
+            "received_packets": 284330,
+            "sent_bytes": 254145290,
+            "sent_packets": 276596
+        }
+    }
+]

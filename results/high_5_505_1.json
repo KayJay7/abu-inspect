@@ -1,0 +1,34 @@
+[
+    {
+        "abusim-example-agent0": {
+            "received_bytes": 262728,
+            "received_packets": 3730,
+            "sent_bytes": 9470314,
+            "sent_packets": 8129
+        },
+        "abusim-example-agent1": {
+            "received_bytes": 18162238,
+            "received_packets": 17593,
+            "sent_bytes": 5191820,
+            "sent_packets": 11012
+        },
+        "abusim-example-agent2": {
+            "received_bytes": 18145203,
+            "received_packets": 17238,
+            "sent_bytes": 4325482,
+            "sent_packets": 10534
+        },
+        "abusim-example-agent3": {
+            "received_bytes": 236670,
+            "received_packets": 3351,
+            "sent_bytes": 8567913,
+            "sent_packets": 7610
+        },
+        "abusim-example-agent4": {
+            "received_bytes": 264696,
+            "received_packets": 3733,
+            "sent_bytes": 9515656,
+            "sent_packets": 8355
+        }
+    }
+]

@@ -1,0 +1,60 @@
+---
+version: "1.0"
+image: "abulang/abusim-goabu-agent-log:latest"
+coordinator_image: "abulang/abusim-coordinator:latest"
+namespace: abusim-example
+includes: []
+agents:
+  agent0:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:0"
+    rules:
+      - rule activate0 on a0_0 for all this.a0_0 > 0 && (ext.id == 1 || ext.id == 2 || ext.id == 3) do ext.a0_0 = (this.a0_0 - 1)
+    tick: 1s
+  agent3:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:3"
+    rules:
+      - rule activate0 on a0_0 for all this.a0_0 > 0 && (ext.id == 4 || ext.id == 0 || ext.id == 1) do ext.a0_0 = (this.a0_0 - 1)
+    tick: 1s
+  agent2:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:2"
+    rules:
+      - rule activate0 on a0_0 for all this.a0_0 > 0 && (ext.id == 3 || ext.id == 4 || ext.id == 0) do ext.a0_0 = (this.a0_0 - 1)
+    tick: 1s
+  agent4:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:4"
+    rules:
+      - rule activate0 on a0_0 for all this.a0_0 > 0 && (ext.id == 0 || ext.id == 1 || ext.id == 2) do ext.a0_0 = (this.a0_0 - 1)
+    tick: 1s
+  agent1:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:1"
+    rules:
+      - rule activate0 on a0_0 for all this.a0_0 > 0 && (ext.id == 2 || ext.id == 3 || ext.id == 4) do ext.a0_0 = (this.a0_0 - 1)
+    tick: 1s
+prototypes:
+  agent:
+    memory_controller: basic
+    memory:
+      - "bool:start:false"
+      - "bool:start_all:false"
+      - "integer:a0_0:0"
+    rules:
+      - rule start on start for start do a0_0 = 5; start = false
+      - rule start_all on start_all for all this.start_all do ext.start = true
+      - rule start_local on start_all for start_all do start = true; start_all = false
+      - rule last_step0 on a0_0 for a0_0 > 0 do a0_0 = 0
+    tick: 1s

@@ -1,0 +1,968 @@
+---
+version: "1.0"
+image: "abulang/abusim-goabu-agent-log:latest"
+coordinator_image: "abulang/abusim-coordinator:latest"
+namespace: abusim-example
+includes: []
+agents:
+  agent36:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:36"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 37) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 37) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 37) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 37) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 37) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 37) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 37) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 37) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 37) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 37) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent42:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:42"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 43) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 43) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 43) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 43) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 43) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 43) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 43) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 43) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 43) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 43) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent28:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:28"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 29) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 29) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 29) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 29) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 29) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 29) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 29) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 29) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 29) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 29) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent49:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:49"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 0) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 0) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 0) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 0) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 0) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 0) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 0) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 0) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 0) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 0) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent17:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:17"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 18) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 18) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 18) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 18) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 18) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 18) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 18) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 18) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 18) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 18) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent38:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:38"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 39) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 39) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 39) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 39) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 39) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 39) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 39) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 39) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 39) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 39) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent41:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:41"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 42) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 42) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 42) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 42) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 42) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 42) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 42) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 42) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 42) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 42) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent43:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:43"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 44) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 44) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 44) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 44) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 44) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 44) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 44) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 44) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 44) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 44) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent26:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:26"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 27) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 27) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 27) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 27) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 27) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 27) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 27) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 27) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 27) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 27) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent10:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:10"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 11) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 11) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 11) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 11) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 11) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 11) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 11) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 11) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 11) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 11) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent30:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:30"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 31) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 31) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 31) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 31) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 31) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 31) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 31) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 31) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 31) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 31) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent34:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:34"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 35) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 35) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 35) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 35) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 35) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 35) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 35) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 35) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 35) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 35) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent47:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:47"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 48) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 48) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 48) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 48) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 48) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 48) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 48) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 48) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 48) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 48) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent4:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:4"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 5) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 5) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 5) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 5) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 5) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 5) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 5) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 5) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 5) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 5) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent11:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:11"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 12) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 12) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 12) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 12) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 12) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 12) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 12) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 12) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 12) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 12) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent6:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:6"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 7) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 7) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 7) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 7) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 7) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 7) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 7) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 7) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 7) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 7) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent9:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:9"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 10) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 10) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 10) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 10) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 10) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 10) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 10) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 10) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 10) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 10) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent22:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:22"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 23) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 23) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 23) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 23) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 23) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 23) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 23) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 23) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 23) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 23) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent29:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:29"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 30) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 30) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 30) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 30) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 30) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 30) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 30) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 30) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 30) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 30) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent45:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:45"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 46) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 46) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 46) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 46) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 46) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 46) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 46) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 46) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 46) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 46) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent2:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:2"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 3) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 3) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 3) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 3) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 3) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 3) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 3) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 3) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 3) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 3) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent14:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:14"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 15) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 15) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 15) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 15) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 15) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 15) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 15) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 15) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 15) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 15) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent19:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:19"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 20) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 20) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 20) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 20) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 20) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 20) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 20) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 20) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 20) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 20) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent23:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:23"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 24) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 24) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 24) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 24) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 24) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 24) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 24) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 24) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 24) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 24) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent0:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:0"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 1) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 1) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 1) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 1) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 1) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 1) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 1) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 1) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 1) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 1) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent3:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:3"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 4) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 4) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 4) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 4) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 4) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 4) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 4) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 4) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 4) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 4) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent20:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:20"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 21) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 21) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 21) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 21) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 21) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 21) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 21) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 21) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 21) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 21) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent24:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:24"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 25) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 25) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 25) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 25) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 25) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 25) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 25) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 25) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 25) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 25) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent32:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:32"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 33) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 33) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 33) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 33) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 33) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 33) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 33) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 33) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 33) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 33) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent8:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:8"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 9) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 9) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 9) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 9) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 9) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 9) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 9) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 9) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 9) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 9) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent16:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:16"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 17) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 17) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 17) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 17) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 17) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 17) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 17) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 17) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 17) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 17) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent18:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:18"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 19) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 19) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 19) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 19) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 19) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 19) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 19) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 19) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 19) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 19) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent7:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:7"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 8) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 8) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 8) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 8) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 8) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 8) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 8) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 8) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 8) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 8) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent15:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:15"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 16) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 16) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 16) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 16) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 16) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 16) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 16) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 16) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 16) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 16) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent21:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:21"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 22) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 22) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 22) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 22) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 22) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 22) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 22) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 22) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 22) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 22) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent27:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:27"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 28) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 28) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 28) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 28) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 28) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 28) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 28) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 28) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 28) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 28) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent37:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:37"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 38) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 38) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 38) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 38) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 38) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 38) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 38) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 38) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 38) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 38) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent25:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:25"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 26) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 26) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 26) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 26) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 26) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 26) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 26) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 26) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 26) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 26) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent40:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:40"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 41) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 41) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 41) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 41) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 41) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 41) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 41) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 41) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 41) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 41) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent13:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:13"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 14) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 14) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 14) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 14) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 14) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 14) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 14) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 14) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 14) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 14) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent35:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:35"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 36) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 36) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 36) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 36) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 36) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 36) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 36) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 36) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 36) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 36) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent31:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:31"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 32) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 32) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 32) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 32) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 32) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 32) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 32) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 32) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 32) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 32) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent5:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:5"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 6) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 6) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 6) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 6) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 6) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 6) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 6) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 6) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 6) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 6) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent39:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:39"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 40) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 40) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 40) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 40) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 40) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 40) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 40) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 40) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 40) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 40) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent44:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:44"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 45) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 45) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 45) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 45) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 45) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 45) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 45) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 45) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 45) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 45) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent46:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:46"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 47) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 47) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 47) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 47) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 47) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 47) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 47) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 47) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 47) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 47) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent48:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:48"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 49) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 49) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 49) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 49) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 49) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 49) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 49) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 49) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 49) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 49) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent1:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:1"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 2) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 2) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 2) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 2) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 2) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 2) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 2) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 2) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 2) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 2) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent12:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:12"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 13) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 13) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 13) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 13) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 13) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 13) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 13) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 13) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 13) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 13) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+  agent33:
+    prototype: agent
+    memory_controller: basic
+    memory:
+      - "integer:id:33"
+    rules:
+      - rule activate0 on a0_4 for all this.a0_4 > 0 && (ext.id == 34) do ext.a0_0 = (this.a0_4 - 1)
+      - rule activate1 on a1_4 for all this.a1_4 > 0 && (ext.id == 34) do ext.a1_0 = (this.a1_4 - 1)
+      - rule activate2 on a2_4 for all this.a2_4 > 0 && (ext.id == 34) do ext.a2_0 = (this.a2_4 - 1)
+      - rule activate3 on a3_4 for all this.a3_4 > 0 && (ext.id == 34) do ext.a3_0 = (this.a3_4 - 1)
+      - rule activate4 on a4_4 for all this.a4_4 > 0 && (ext.id == 34) do ext.a4_0 = (this.a4_4 - 1)
+      - rule activate5 on a5_4 for all this.a5_4 > 0 && (ext.id == 34) do ext.a5_0 = (this.a5_4 - 1)
+      - rule activate6 on a6_4 for all this.a6_4 > 0 && (ext.id == 34) do ext.a6_0 = (this.a6_4 - 1)
+      - rule activate7 on a7_4 for all this.a7_4 > 0 && (ext.id == 34) do ext.a7_0 = (this.a7_4 - 1)
+      - rule activate8 on a8_4 for all this.a8_4 > 0 && (ext.id == 34) do ext.a8_0 = (this.a8_4 - 1)
+      - rule activate9 on a9_4 for all this.a9_4 > 0 && (ext.id == 34) do ext.a9_0 = (this.a9_4 - 1)
+    tick: 1s
+prototypes:
+  agent:
+    memory_controller: basic
+    memory:
+      - "bool:start:false"
+      - "bool:start_all:false"
+      - "integer:a0_0:0"
+      - "integer:a0_1:0"
+      - "integer:a0_2:0"
+      - "integer:a0_3:0"
+      - "integer:a0_4:0"
+      - "integer:a1_0:0"
+      - "integer:a1_1:0"
+      - "integer:a1_2:0"
+      - "integer:a1_3:0"
+      - "integer:a1_4:0"
+      - "integer:a2_0:0"
+      - "integer:a2_1:0"
+      - "integer:a2_2:0"
+      - "integer:a2_3:0"
+      - "integer:a2_4:0"
+      - "integer:a3_0:0"
+      - "integer:a3_1:0"
+      - "integer:a3_2:0"
+      - "integer:a3_3:0"
+      - "integer:a3_4:0"
+      - "integer:a4_0:0"
+      - "integer:a4_1:0"
+      - "integer:a4_2:0"
+      - "integer:a4_3:0"
+      - "integer:a4_4:0"
+      - "integer:a5_0:0"
+      - "integer:a5_1:0"
+      - "integer:a5_2:0"
+      - "integer:a5_3:0"
+      - "integer:a5_4:0"
+      - "integer:a6_0:0"
+      - "integer:a6_1:0"
+      - "integer:a6_2:0"
+      - "integer:a6_3:0"
+      - "integer:a6_4:0"
+      - "integer:a7_0:0"
+      - "integer:a7_1:0"
+      - "integer:a7_2:0"
+      - "integer:a7_3:0"
+      - "integer:a7_4:0"
+      - "integer:a8_0:0"
+      - "integer:a8_1:0"
+      - "integer:a8_2:0"
+      - "integer:a8_3:0"
+      - "integer:a8_4:0"
+      - "integer:a9_0:0"
+      - "integer:a9_1:0"
+      - "integer:a9_2:0"
+      - "integer:a9_3:0"
+      - "integer:a9_4:0"
+    rules:
+      - rule start on start for start do a0_0 = 20; a1_0 = 20; a2_0 = 20; a3_0 = 20; a4_0 = 20; start = false
+      - rule start_all on start_all for all this.start_all do ext.start = true
+      - rule start_local on start_all for start_all do start = true; start_all = false
+      - rule step0_0 on a0_0 for a0_0 > 0 do a0_1 = a0_0; a0_0 = 0
+      - rule step0_1 on a0_1 for a0_1 > 0 do a0_2 = a0_1; a0_1 = 0
+      - rule step0_2 on a0_2 for a0_2 > 0 do a0_3 = a0_2; a0_2 = 0
+      - rule step0_3 on a0_3 for a0_3 > 0 do a0_4 = a0_3; a0_3 = 0
+      - rule last_step0 on a0_4 for a0_4 > 0 do a0_4 = 0
+      - rule step1_0 on a1_0 for a1_0 > 0 do a1_1 = a1_0; a1_0 = 0
+      - rule step1_1 on a1_1 for a1_1 > 0 do a1_2 = a1_1; a1_1 = 0
+      - rule step1_2 on a1_2 for a1_2 > 0 do a1_3 = a1_2; a1_2 = 0
+      - rule step1_3 on a1_3 for a1_3 > 0 do a1_4 = a1_3; a1_3 = 0
+      - rule last_step1 on a1_4 for a1_4 > 0 do a1_4 = 0
+      - rule step2_0 on a2_0 for a2_0 > 0 do a2_1 = a2_0; a2_0 = 0
+      - rule step2_1 on a2_1 for a2_1 > 0 do a2_2 = a2_1; a2_1 = 0
+      - rule step2_2 on a2_2 for a2_2 > 0 do a2_3 = a2_2; a2_2 = 0
+      - rule step2_3 on a2_3 for a2_3 > 0 do a2_4 = a2_3; a2_3 = 0
+      - rule last_step2 on a2_4 for a2_4 > 0 do a2_4 = 0
+      - rule step3_0 on a3_0 for a3_0 > 0 do a3_1 = a3_0; a3_0 = 0
+      - rule step3_1 on a3_1 for a3_1 > 0 do a3_2 = a3_1; a3_1 = 0
+      - rule step3_2 on a3_2 for a3_2 > 0 do a3_3 = a3_2; a3_2 = 0
+      - rule step3_3 on a3_3 for a3_3 > 0 do a3_4 = a3_3; a3_3 = 0
+      - rule last_step3 on a3_4 for a3_4 > 0 do a3_4 = 0
+      - rule step4_0 on a4_0 for a4_0 > 0 do a4_1 = a4_0; a4_0 = 0
+      - rule step4_1 on a4_1 for a4_1 > 0 do a4_2 = a4_1; a4_1 = 0
+      - rule step4_2 on a4_2 for a4_2 > 0 do a4_3 = a4_2; a4_2 = 0
+      - rule step4_3 on a4_3 for a4_3 > 0 do a4_4 = a4_3; a4_3 = 0
+      - rule last_step4 on a4_4 for a4_4 > 0 do a4_4 = 0
+      - rule step5_0 on a5_0 for a5_0 > 0 do a5_1 = a5_0; a5_0 = 0
+      - rule step5_1 on a5_1 for a5_1 > 0 do a5_2 = a5_1; a5_1 = 0
+      - rule step5_2 on a5_2 for a5_2 > 0 do a5_3 = a5_2; a5_2 = 0
+      - rule step5_3 on a5_3 for a5_3 > 0 do a5_4 = a5_3; a5_3 = 0
+      - rule last_step5 on a5_4 for a5_4 > 0 do a5_4 = 0
+      - rule step6_0 on a6_0 for a6_0 > 0 do a6_1 = a6_0; a6_0 = 0
+      - rule step6_1 on a6_1 for a6_1 > 0 do a6_2 = a6_1; a6_1 = 0
+      - rule step6_2 on a6_2 for a6_2 > 0 do a6_3 = a6_2; a6_2 = 0
+      - rule step6_3 on a6_3 for a6_3 > 0 do a6_4 = a6_3; a6_3 = 0
+      - rule last_step6 on a6_4 for a6_4 > 0 do a6_4 = 0
+      - rule step7_0 on a7_0 for a7_0 > 0 do a7_1 = a7_0; a7_0 = 0
+      - rule step7_1 on a7_1 for a7_1 > 0 do a7_2 = a7_1; a7_1 = 0
+      - rule step7_2 on a7_2 for a7_2 > 0 do a7_3 = a7_2; a7_2 = 0
+      - rule step7_3 on a7_3 for a7_3 > 0 do a7_4 = a7_3; a7_3 = 0
+      - rule last_step7 on a7_4 for a7_4 > 0 do a7_4 = 0
+      - rule step8_0 on a8_0 for a8_0 > 0 do a8_1 = a8_0; a8_0 = 0
+      - rule step8_1 on a8_1 for a8_1 > 0 do a8_2 = a8_1; a8_1 = 0
+      - rule step8_2 on a8_2 for a8_2 > 0 do a8_3 = a8_2; a8_2 = 0
+      - rule step8_3 on a8_3 for a8_3 > 0 do a8_4 = a8_3; a8_3 = 0
+      - rule last_step8 on a8_4 for a8_4 > 0 do a8_4 = 0
+      - rule step9_0 on a9_0 for a9_0 > 0 do a9_1 = a9_0; a9_0 = 0
+      - rule step9_1 on a9_1 for a9_1 > 0 do a9_2 = a9_1; a9_1 = 0
+      - rule step9_2 on a9_2 for a9_2 > 0 do a9_3 = a9_2; a9_2 = 0
+      - rule step9_3 on a9_3 for a9_3 > 0 do a9_4 = a9_3; a9_3 = 0
+      - rule last_step9 on a9_4 for a9_4 > 0 do a9_4 = 0
+    tick: 1s

@@ -1,0 +1,503 @@
+agent82: 2022/06/25 11:14:39 Creating memory
+agent82: 2022/06/25 11:14:39 Creating executer
+agent82: 2022/06/25 11:14:39 Connecting to coordinator
+agent82: 2022/06/25 11:14:39 Starting main loop
+agent40: 2022/06/25 11:15:49 Creating memory
+agent40: 2022/06/25 11:15:49 Creating executer
+agent40: 2022/06/25 11:15:50 Connecting to coordinator
+agent40: 2022/06/25 11:15:50 Starting main loop
+agent74: 2022/06/25 11:14:41 Creating memory
+agent74: 2022/06/25 11:14:41 Creating executer
+agent74: 2022/06/25 11:14:41 Connecting to coordinator
+agent74: 2022/06/25 11:14:41 Starting main loop
+agent89: 2022/06/25 11:15:48 Creating memory
+agent89: 2022/06/25 11:15:48 Creating executer
+agent89: 2022/06/25 11:15:48 Connecting to coordinator
+agent89: 2022/06/25 11:15:48 Starting main loop
+agent96: 2022/06/25 11:14:42 Creating memory
+agent96: 2022/06/25 11:14:42 Creating executer
+agent96: 2022/06/25 11:14:42 Connecting to coordinator
+agent96: 2022/06/25 11:14:42 Starting main loop
+agent91: 2022/06/25 11:14:45 Creating memory
+agent91: 2022/06/25 11:14:45 Creating executer
+agent91: 2022/06/25 11:14:45 Connecting to coordinator
+agent91: 2022/06/25 11:14:45 Starting main loop
+agent31: 2022/06/25 11:15:40 Creating memory
+agent31: 2022/06/25 11:15:40 Creating executer
+agent31: 2022/06/25 11:15:40 Connecting to coordinator
+agent31: 2022/06/25 11:15:40 Starting main loop
+agent42: 2022/06/25 11:15:37 Creating memory
+agent42: 2022/06/25 11:15:37 Creating executer
+agent42: 2022/06/25 11:15:38 Connecting to coordinator
+agent42: 2022/06/25 11:15:38 Starting main loop
+agent0: 2022/06/25 11:15:21 Creating memory
+agent0: 2022/06/25 11:15:21 Creating executer
+agent0: 2022/06/25 11:15:21 Connecting to coordinator
+agent0: 2022/06/25 11:15:21 Starting main loop
+agent9: 2022/06/25 11:14:48 Creating memory
+agent9: 2022/06/25 11:14:48 Creating executer
+agent9: 2022/06/25 11:14:48 Connecting to coordinator
+agent9: 2022/06/25 11:14:48 Starting main loop
+agent84: 2022/06/25 11:15:45 Creating memory
+agent84: 2022/06/25 11:15:45 Creating executer
+agent84: 2022/06/25 11:15:46 Connecting to coordinator
+agent84: 2022/06/25 11:15:46 Starting main loop
+agent43: 2022/06/25 11:14:43 Creating memory
+agent43: 2022/06/25 11:14:43 Creating executer
+agent43: 2022/06/25 11:14:43 Connecting to coordinator
+agent43: 2022/06/25 11:14:43 Starting main loop
+agent44: 2022/06/25 11:14:44 Creating memory
+agent44: 2022/06/25 11:14:44 Creating executer
+agent44: 2022/06/25 11:14:44 Connecting to coordinator
+agent44: 2022/06/25 11:14:44 Starting main loop
+coordinator: 2022/06/25 11:14:38 Starting listener
+coordinator: 2022/06/25 11:14:38 Starting API
+coordinator: 2022/06/25 11:14:39 New agent connected from 172.23.0.3:53904
+coordinator: 2022/06/25 11:14:39 New agent connected from 172.23.0.4:55098
+coordinator: 2022/06/25 11:14:40 New agent connected from 172.23.0.5:37600
+coordinator: 2022/06/25 11:14:41 New agent connected from 172.23.0.6:57520
+coordinator: 2022/06/25 11:14:41 New agent connected from 172.23.0.7:50566
+coordinator: 2022/06/25 11:14:42 New agent connected from 172.23.0.8:45450
+agent52: 2022/06/25 11:14:47 Creating memory
+agent52: 2022/06/25 11:14:47 Creating executer
+agent52: 2022/06/25 11:14:47 Connecting to coordinator
+agent52: 2022/06/25 11:14:47 Starting main loop
+coordinator: 2022/06/25 11:14:43 New agent connected from 172.23.0.9:52324
+coordinator: 2022/06/25 11:14:43 New agent connected from 172.23.0.10:39284
+coordinator: 2022/06/25 11:14:44 New agent connected from 172.23.0.11:58788
+coordinator: 2022/06/25 11:14:45 New agent connected from 172.23.0.12:45116
+coordinator: 2022/06/25 11:14:45 New agent connected from 172.23.0.13:55644
+coordinator: 2022/06/25 11:14:46 New agent connected from 172.23.0.14:44136
+coordinator: 2022/06/25 11:14:47 New agent connected from 172.23.0.15:50966
+coordinator: 2022/06/25 11:14:47 New agent connected from 172.23.0.16:43330
+coordinator: 2022/06/25 11:14:48 New agent connected from 172.23.0.17:33736
+coordinator: 2022/06/25 11:14:49 New agent connected from 172.23.0.18:60526
+coordinator: 2022/06/25 11:14:49 New agent connected from 172.23.0.19:40510
+coordinator: 2022/06/25 11:14:50 New agent connected from 172.23.0.20:57938
+coordinator: 2022/06/25 11:14:51 New agent connected from 172.23.0.21:46558
+coordinator: 2022/06/25 11:14:51 New agent connected from 172.23.0.22:60844
+coordinator: 2022/06/25 11:14:52 New agent connected from 172.23.0.23:33332
+coordinator: 2022/06/25 11:14:53 New agent connected from 172.23.0.24:55996
+coordinator: 2022/06/25 11:14:53 New agent connected from 172.23.0.25:59694
+coordinator: 2022/06/25 11:14:54 New agent connected from 172.23.0.26:49884
+coordinator: 2022/06/25 11:14:55 New agent connected from 172.23.0.27:52912
+coordinator: 2022/06/25 11:14:55 New agent connected from 172.23.0.28:40262
+coordinator: 2022/06/25 11:14:56 New agent connected from 172.23.0.29:53832
+coordinator: 2022/06/25 11:14:57 New agent connected from 172.23.0.30:32958
+agent25: 2022/06/25 11:14:44 Creating memory
+agent25: 2022/06/25 11:14:44 Creating executer
+coordinator: 2022/06/25 11:14:58 New agent connected from 172.23.0.31:60940
+agent25: 2022/06/25 11:14:45 Connecting to coordinator
+coordinator: 2022/06/25 11:14:58 New agent connected from 172.23.0.32:57942
+coordinator: 2022/06/25 11:14:59 New agent connected from 172.23.0.33:39710
+agent25: 2022/06/25 11:14:45 Starting main loop
+agent35: 2022/06/25 11:15:00 Creating memory
+agent35: 2022/06/25 11:15:00 Creating executer
+coordinator: 2022/06/25 11:15:00 New agent connected from 172.23.0.34:59556
+agent35: 2022/06/25 11:15:00 Connecting to coordinator
+agent35: 2022/06/25 11:15:00 Starting main loop
+coordinator: 2022/06/25 11:15:00 New agent connected from 172.23.0.35:50950
+coordinator: 2022/06/25 11:15:01 New agent connected from 172.23.0.36:35470
+coordinator: 2022/06/25 11:15:02 New agent connected from 172.23.0.37:59024
+agent34: 2022/06/25 11:15:15 Creating memory
+coordinator: 2022/06/25 11:15:03 New agent connected from 172.23.0.38:55080
+coordinator: 2022/06/25 11:15:03 New agent connected from 172.23.0.39:35866
+agent34: 2022/06/25 11:15:15 Creating executer
+coordinator: 2022/06/25 11:15:04 New agent connected from 172.23.0.40:36328
+agent34: 2022/06/25 11:15:15 Connecting to coordinator
+coordinator: 2022/06/25 11:15:05 New agent connected from 172.23.0.41:56136
+coordinator: 2022/06/25 11:15:05 New agent connected from 172.23.0.42:52318
+coordinator: 2022/06/25 11:15:06 New agent connected from 172.23.0.43:57268
+coordinator: 2022/06/25 11:15:07 New agent connected from 172.23.0.44:39092
+coordinator: 2022/06/25 11:15:08 New agent connected from 172.23.0.45:45100
+coordinator: 2022/06/25 11:15:08 New agent connected from 172.23.0.46:34338
+coordinator: 2022/06/25 11:15:09 New agent connected from 172.23.0.47:57516
+agent34: 2022/06/25 11:15:15 Starting main loop
+coordinator: 2022/06/25 11:15:10 New agent connected from 172.23.0.48:32998
+coordinator: 2022/06/25 11:15:10 New agent connected from 172.23.0.49:52824
+agent22: 2022/06/25 11:14:52 Creating memory
+coordinator: 2022/06/25 11:15:11 New agent connected from 172.23.0.50:44968
+coordinator: 2022/06/25 11:15:12 New agent connected from 172.23.0.51:57682
+agent22: 2022/06/25 11:14:52 Creating executer
+coordinator: 2022/06/25 11:15:12 New agent connected from 172.23.0.52:50134
+coordinator: 2022/06/25 11:15:13 New agent connected from 172.23.0.53:57690
+coordinator: 2022/06/25 11:15:14 New agent connected from 172.23.0.54:33926
+agent22: 2022/06/25 11:14:52 Connecting to coordinator
+coordinator: 2022/06/25 11:15:15 New agent connected from 172.23.0.55:54204
+agent22: 2022/06/25 11:14:52 Starting main loop
+coordinator: 2022/06/25 11:15:15 New agent connected from 172.23.0.56:56426
+coordinator: 2022/06/25 11:15:16 New agent connected from 172.23.0.57:42434
+coordinator: 2022/06/25 11:15:17 New agent connected from 172.23.0.58:46932
+agent85: 2022/06/25 11:14:51 Creating memory
+agent85: 2022/06/25 11:14:51 Creating executer
+coordinator: 2022/06/25 11:15:18 New agent connected from 172.23.0.59:42230
+coordinator: 2022/06/25 11:15:18 New agent connected from 172.23.0.60:41308
+coordinator: 2022/06/25 11:15:19 New agent connected from 172.23.0.61:55060
+coordinator: 2022/06/25 11:15:20 New agent connected from 172.23.0.62:56610
+coordinator: 2022/06/25 11:15:21 New agent connected from 172.23.0.63:39442
+coordinator: 2022/06/25 11:15:21 New agent connected from 172.23.0.64:52232
+agent94: 2022/06/25 11:14:54 Creating memory
+coordinator: 2022/06/25 11:15:22 New agent connected from 172.23.0.65:53790
+agent85: 2022/06/25 11:14:51 Connecting to coordinator
+agent94: 2022/06/25 11:14:54 Creating executer
+coordinator: 2022/06/25 11:15:23 New agent connected from 172.23.0.66:52430
+coordinator: 2022/06/25 11:15:23 New agent connected from 172.23.0.67:57008
+agent94: 2022/06/25 11:14:54 Connecting to coordinator
+agent85: 2022/06/25 11:14:51 Starting main loop
+agent94: 2022/06/25 11:14:54 Starting main loop
+agent66: 2022/06/25 11:14:41 Creating memory
+agent66: 2022/06/25 11:14:41 Creating executer
+agent66: 2022/06/25 11:14:41 Connecting to coordinator
+agent66: 2022/06/25 11:14:41 Starting main loop
+agent8: 2022/06/25 11:14:53 Creating memory
+agent8: 2022/06/25 11:14:53 Creating executer
+agent8: 2022/06/25 11:14:53 Connecting to coordinator
+agent8: 2022/06/25 11:14:53 Starting main loop
+agent15: 2022/06/25 11:14:57 Creating memory
+agent71: 2022/06/25 11:14:49 Creating memory
+agent15: 2022/06/25 11:14:57 Creating executer
+coordinator: 2022/06/25 11:15:24 New agent connected from 172.23.0.68:51310
+agent71: 2022/06/25 11:14:49 Creating executer
+coordinator: 2022/06/25 11:15:25 New agent connected from 172.23.0.69:58516
+agent71: 2022/06/25 11:14:49 Connecting to coordinator
+agent15: 2022/06/25 11:14:58 Connecting to coordinator
+agent15: 2022/06/25 11:14:58 Starting main loop
+coordinator: 2022/06/25 11:15:26 New agent connected from 172.23.0.70:58958
+coordinator: 2022/06/25 11:15:27 New agent connected from 172.23.0.71:40974
+agent71: 2022/06/25 11:14:49 Starting main loop
+coordinator: 2022/06/25 11:15:27 New agent connected from 172.23.0.72:54056
+coordinator: 2022/06/25 11:15:28 New agent connected from 172.23.0.73:47050
+agent64: 2022/06/25 11:14:57 Creating memory
+coordinator: 2022/06/25 11:15:29 New agent connected from 172.23.0.74:39834
+agent64: 2022/06/25 11:14:57 Creating executer
+agent64: 2022/06/25 11:14:57 Connecting to coordinator
+coordinator: 2022/06/25 11:15:30 New agent connected from 172.23.0.75:36598
+agent64: 2022/06/25 11:14:57 Starting main loop
+agent59: 2022/06/25 11:14:40 Creating memory
+agent59: 2022/06/25 11:14:40 Creating executer
+agent59: 2022/06/25 11:14:40 Connecting to coordinator
+agent59: 2022/06/25 11:14:40 Starting main loop
+agent26: 2022/06/25 11:14:55 Creating memory
+agent26: 2022/06/25 11:14:55 Creating executer
+agent26: 2022/06/25 11:14:55 Connecting to coordinator
+agent26: 2022/06/25 11:14:55 Starting main loop
+agent45: 2022/06/25 11:15:01 Creating memory
+agent45: 2022/06/25 11:15:01 Creating executer
+agent45: 2022/06/25 11:15:01 Connecting to coordinator
+agent45: 2022/06/25 11:15:01 Starting main loop
+agent51: 2022/06/25 11:14:56 Creating memory
+agent51: 2022/06/25 11:14:56 Creating executer
+coordinator: 2022/06/25 11:15:30 New agent connected from 172.23.0.76:57986
+coordinator: 2022/06/25 11:15:31 New agent connected from 172.23.0.77:34392
+agent2: 2022/06/25 11:14:49 Creating memory
+coordinator: 2022/06/25 11:15:32 New agent connected from 172.23.0.78:51856
+agent51: 2022/06/25 11:14:56 Connecting to coordinator
+coordinator: 2022/06/25 11:15:33 New agent connected from 172.23.0.79:53492
+coordinator: 2022/06/25 11:15:33 New agent connected from 172.23.0.80:47306
+agent2: 2022/06/25 11:14:49 Creating executer
+agent2: 2022/06/25 11:14:49 Connecting to coordinator
+coordinator: 2022/06/25 11:15:34 New agent connected from 172.23.0.81:46852
+agent2: 2022/06/25 11:14:49 Starting main loop
+coordinator: 2022/06/25 11:15:35 New agent connected from 172.23.0.82:44532
+coordinator: 2022/06/25 11:15:36 New agent connected from 172.23.0.83:45666
+coordinator: 2022/06/25 11:15:36 New agent connected from 172.23.0.84:43090
+coordinator: 2022/06/25 11:15:37 New agent connected from 172.23.0.85:45128
+coordinator: 2022/06/25 11:15:38 New agent connected from 172.23.0.86:52998
+coordinator: 2022/06/25 11:15:39 New agent connected from 172.23.0.87:43142
+coordinator: 2022/06/25 11:15:40 New agent connected from 172.23.0.88:44822
+agent51: 2022/06/25 11:14:56 Starting main loop
+coordinator: 2022/06/25 11:15:40 New agent connected from 172.23.0.89:56646
+coordinator: 2022/06/25 11:15:41 New agent connected from 172.23.0.90:45820
+coordinator: 2022/06/25 11:15:42 New agent connected from 172.23.0.91:60770
+coordinator: 2022/06/25 11:15:43 New agent connected from 172.23.0.92:32836
+coordinator: 2022/06/25 11:15:43 New agent connected from 172.23.0.93:58912
+coordinator: 2022/06/25 11:15:44 New agent connected from 172.23.0.94:35470
+coordinator: 2022/06/25 11:15:45 New agent connected from 172.23.0.95:56648
+coordinator: 2022/06/25 11:15:46 New agent connected from 172.23.0.96:60752
+coordinator: 2022/06/25 11:15:47 New agent connected from 172.23.0.97:42940
+coordinator: 2022/06/25 11:15:48 New agent connected from 172.23.0.98:39662
+coordinator: 2022/06/25 11:15:48 New agent connected from 172.23.0.99:35740
+coordinator: 2022/06/25 11:15:49 New agent connected from 172.23.0.100:38946
+coordinator: 2022/06/25 11:15:50 New agent connected from 172.23.0.101:60416
+agent30: 2022/06/25 11:14:50 Creating memory
+agent30: 2022/06/25 11:14:50 Creating executer
+agent17: 2022/06/25 11:15:12 Creating memory
+agent17: 2022/06/25 11:15:12 Creating executer
+agent30: 2022/06/25 11:14:50 Connecting to coordinator
+agent30: 2022/06/25 11:14:50 Starting main loop
+agent17: 2022/06/25 11:15:12 Connecting to coordinator
+agent17: 2022/06/25 11:15:12 Starting main loop
+agent58: 2022/06/25 11:15:09 Creating memory
+agent58: 2022/06/25 11:15:09 Creating executer
+agent58: 2022/06/25 11:15:09 Connecting to coordinator
+agent58: 2022/06/25 11:15:09 Starting main loop
+agent81: 2022/06/25 11:15:00 Creating memory
+agent81: 2022/06/25 11:15:00 Creating executer
+agent81: 2022/06/25 11:15:00 Connecting to coordinator
+agent81: 2022/06/25 11:15:00 Starting main loop
+agent38: 2022/06/25 11:15:50 Creating memory
+agent38: 2022/06/25 11:15:50 Creating executer
+agent61: 2022/06/25 11:15:07 Creating memory
+agent61: 2022/06/25 11:15:07 Creating executer
+agent61: 2022/06/25 11:15:07 Connecting to coordinator
+agent61: 2022/06/25 11:15:07 Starting main loop
+agent50: 2022/06/25 11:15:17 Creating memory
+agent50: 2022/06/25 11:15:17 Creating executer
+agent50: 2022/06/25 11:15:17 Connecting to coordinator
+agent50: 2022/06/25 11:15:17 Starting main loop
+agent10: 2022/06/25 11:15:17 Creating memory
+agent10: 2022/06/25 11:15:17 Creating executer
+agent10: 2022/06/25 11:15:18 Connecting to coordinator
+agent10: 2022/06/25 11:15:18 Starting main loop
+agent32: 2022/06/25 11:15:14 Creating memory
+agent32: 2022/06/25 11:15:14 Creating executer
+agent32: 2022/06/25 11:15:14 Connecting to coordinator
+agent32: 2022/06/25 11:15:14 Starting main loop
+agent16: 2022/06/25 11:15:18 Creating memory
+agent16: 2022/06/25 11:15:18 Creating executer
+agent16: 2022/06/25 11:15:18 Connecting to coordinator
+agent16: 2022/06/25 11:15:18 Starting main loop
+agent75: 2022/06/25 11:15:20 Creating memory
+agent75: 2022/06/25 11:15:20 Creating executer
+agent75: 2022/06/25 11:15:21 Connecting to coordinator
+agent75: 2022/06/25 11:15:21 Starting main loop
+agent29: 2022/06/25 11:15:22 Creating memory
+agent29: 2022/06/25 11:15:22 Creating executer
+agent29: 2022/06/25 11:15:22 Connecting to coordinator
+agent29: 2022/06/25 11:15:22 Starting main loop
+agent92: 2022/06/25 11:15:22 Creating memory
+agent92: 2022/06/25 11:15:22 Creating executer
+agent92: 2022/06/25 11:15:23 Connecting to coordinator
+agent92: 2022/06/25 11:15:23 Starting main loop
+agent99: 2022/06/25 11:15:31 Creating memory
+agent99: 2022/06/25 11:15:31 Creating executer
+agent99: 2022/06/25 11:15:32 Connecting to coordinator
+agent99: 2022/06/25 11:15:32 Starting main loop
+agent13: 2022/06/25 11:15:32 Creating memory
+agent13: 2022/06/25 11:15:32 Creating executer
+agent13: 2022/06/25 11:15:33 Connecting to coordinator
+agent13: 2022/06/25 11:15:33 Starting main loop
+agent18: 2022/06/25 11:15:34 Creating memory
+agent18: 2022/06/25 11:15:34 Creating executer
+agent68: 2022/06/25 11:15:26 Creating memory
+agent47: 2022/06/25 11:15:24 Creating memory
+agent18: 2022/06/25 11:15:34 Connecting to coordinator
+agent68: 2022/06/25 11:15:26 Creating executer
+agent36: 2022/06/25 11:15:31 Creating memory
+agent90: 2022/06/25 11:15:25 Creating memory
+agent47: 2022/06/25 11:15:24 Creating executer
+agent18: 2022/06/25 11:15:34 Starting main loop
+agent68: 2022/06/25 11:15:27 Connecting to coordinator
+agent36: 2022/06/25 11:15:31 Creating executer
+agent90: 2022/06/25 11:15:25 Creating executer
+agent90: 2022/06/25 11:15:26 Connecting to coordinator
+agent90: 2022/06/25 11:15:26 Starting main loop
+agent47: 2022/06/25 11:15:24 Connecting to coordinator
+agent68: 2022/06/25 11:15:27 Starting main loop
+agent36: 2022/06/25 11:15:31 Connecting to coordinator
+agent36: 2022/06/25 11:15:31 Starting main loop
+agent47: 2022/06/25 11:15:24 Starting main loop
+agent78: 2022/06/25 11:15:23 Creating memory
+agent78: 2022/06/25 11:15:23 Creating executer
+agent78: 2022/06/25 11:15:23 Connecting to coordinator
+agent78: 2022/06/25 11:15:23 Starting main loop
+agent98: 2022/06/25 11:15:14 Creating memory
+agent98: 2022/06/25 11:15:14 Creating executer
+agent98: 2022/06/25 11:15:15 Connecting to coordinator
+agent98: 2022/06/25 11:15:15 Starting main loop
+agent6: 2022/06/25 11:15:28 Creating memory
+agent6: 2022/06/25 11:15:28 Creating executer
+agent6: 2022/06/25 11:15:29 Connecting to coordinator
+agent6: 2022/06/25 11:15:29 Starting main loop
+agent1: 2022/06/25 11:15:38 Creating memory
+agent1: 2022/06/25 11:15:38 Creating executer
+agent1: 2022/06/25 11:15:39 Connecting to coordinator
+agent1: 2022/06/25 11:15:39 Starting main loop
+agent20: 2022/06/25 11:15:42 Creating memory
+agent20: 2022/06/25 11:15:42 Creating executer
+agent20: 2022/06/25 11:15:43 Connecting to coordinator
+agent20: 2022/06/25 11:15:43 Starting main loop
+agent23: 2022/06/25 11:15:43 Creating memory
+agent23: 2022/06/25 11:15:43 Creating executer
+agent83: 2022/06/25 11:14:39 Creating memory
+agent83: 2022/06/25 11:14:39 Creating executer
+agent83: 2022/06/25 11:14:39 Connecting to coordinator
+agent23: 2022/06/25 11:15:43 Connecting to coordinator
+agent83: 2022/06/25 11:14:39 Starting main loop
+agent23: 2022/06/25 11:15:43 Starting main loop
+agent39: 2022/06/25 11:15:44 Creating memory
+agent48: 2022/06/25 11:15:39 Creating memory
+agent39: 2022/06/25 11:15:44 Creating executer
+agent48: 2022/06/25 11:15:39 Creating executer
+agent48: 2022/06/25 11:15:40 Connecting to coordinator
+agent39: 2022/06/25 11:15:44 Connecting to coordinator
+agent48: 2022/06/25 11:15:40 Starting main loop
+agent39: 2022/06/25 11:15:44 Starting main loop
+agent76: 2022/06/25 11:14:43 Creating memory
+agent76: 2022/06/25 11:14:43 Creating executer
+agent77: 2022/06/25 11:15:47 Creating memory
+agent21: 2022/06/25 11:14:46 Creating memory
+agent76: 2022/06/25 11:14:43 Connecting to coordinator
+agent21: 2022/06/25 11:14:46 Creating executer
+agent76: 2022/06/25 11:14:43 Starting main loop
+agent54: 2022/06/25 11:15:46 Creating memory
+agent77: 2022/06/25 11:15:47 Creating executer
+agent21: 2022/06/25 11:14:46 Connecting to coordinator
+agent54: 2022/06/25 11:15:46 Creating executer
+agent54: 2022/06/25 11:15:47 Connecting to coordinator
+agent21: 2022/06/25 11:14:46 Starting main loop
+agent77: 2022/06/25 11:15:48 Connecting to coordinator
+agent77: 2022/06/25 11:15:48 Starting main loop
+agent54: 2022/06/25 11:15:47 Starting main loop
+agent86: 2022/06/25 11:15:44 Creating memory
+agent86: 2022/06/25 11:15:44 Creating executer
+agent86: 2022/06/25 11:15:45 Connecting to coordinator
+agent86: 2022/06/25 11:15:45 Starting main loop
+agent11: 2022/06/25 11:15:13 Creating memory
+agent11: 2022/06/25 11:15:13 Creating executer
+agent72: 2022/06/25 11:15:02 Creating memory
+agent11: 2022/06/25 11:15:13 Connecting to coordinator
+agent72: 2022/06/25 11:15:02 Creating executer
+agent72: 2022/06/25 11:15:03 Connecting to coordinator
+agent72: 2022/06/25 11:15:03 Starting main loop
+agent11: 2022/06/25 11:15:13 Starting main loop
+agent37: 2022/06/25 11:15:19 Creating memory
+agent97: 2022/06/25 11:14:55 Creating memory
+agent37: 2022/06/25 11:15:19 Creating executer
+agent55: 2022/06/25 11:15:34 Creating memory
+agent97: 2022/06/25 11:14:55 Creating executer
+agent97: 2022/06/25 11:14:55 Connecting to coordinator
+agent55: 2022/06/25 11:15:34 Creating executer
+agent37: 2022/06/25 11:15:19 Connecting to coordinator
+agent55: 2022/06/25 11:15:35 Connecting to coordinator
+agent37: 2022/06/25 11:15:19 Starting main loop
+agent62: 2022/06/25 11:15:07 Creating memory
+agent97: 2022/06/25 11:14:55 Starting main loop
+agent49: 2022/06/25 11:15:12 Creating memory
+agent55: 2022/06/25 11:15:35 Starting main loop
+agent87: 2022/06/25 11:15:08 Creating memory
+agent87: 2022/06/25 11:15:08 Creating executer
+agent87: 2022/06/25 11:15:08 Connecting to coordinator
+agent87: 2022/06/25 11:15:08 Starting main loop
+agent49: 2022/06/25 11:15:12 Creating executer
+agent49: 2022/06/25 11:15:12 Connecting to coordinator
+agent49: 2022/06/25 11:15:12 Starting main loop
+agent62: 2022/06/25 11:15:07 Creating executer
+agent69: 2022/06/25 11:15:20 Creating memory
+agent62: 2022/06/25 11:15:08 Connecting to coordinator
+agent62: 2022/06/25 11:15:08 Starting main loop
+agent69: 2022/06/25 11:15:20 Creating executer
+agent69: 2022/06/25 11:15:20 Connecting to coordinator
+agent69: 2022/06/25 11:15:20 Starting main loop
+agent33: 2022/06/25 11:15:36 Creating memory
+agent33: 2022/06/25 11:15:36 Creating executer
+agent63: 2022/06/25 11:15:41 Creating memory
+agent33: 2022/06/25 11:15:36 Connecting to coordinator
+agent63: 2022/06/25 11:15:41 Creating executer
+agent63: 2022/06/25 11:15:41 Connecting to coordinator
+agent63: 2022/06/25 11:15:41 Starting main loop
+agent33: 2022/06/25 11:15:36 Starting main loop
+agent57: 2022/06/25 11:15:02 Creating memory
+agent57: 2022/06/25 11:15:02 Creating executer
+agent57: 2022/06/25 11:15:02 Connecting to coordinator
+agent57: 2022/06/25 11:15:02 Starting main loop
+agent67: 2022/06/25 11:15:05 Creating memory
+agent67: 2022/06/25 11:15:05 Creating executer
+agent67: 2022/06/25 11:15:05 Connecting to coordinator
+agent67: 2022/06/25 11:15:05 Starting main loop
+agent65: 2022/06/25 11:14:53 Creating memory
+agent65: 2022/06/25 11:14:53 Creating executer
+agent4: 2022/06/25 11:14:59 Creating memory
+agent4: 2022/06/25 11:14:59 Creating executer
+agent28: 2022/06/25 11:15:03 Creating memory
+agent93: 2022/06/25 11:15:11 Creating memory
+agent73: 2022/06/25 11:15:06 Creating memory
+agent65: 2022/06/25 11:14:53 Connecting to coordinator
+agent4: 2022/06/25 11:14:59 Connecting to coordinator
+agent93: 2022/06/25 11:15:11 Creating executer
+agent28: 2022/06/25 11:15:03 Creating executer
+agent5: 2022/06/25 11:15:35 Creating memory
+agent73: 2022/06/25 11:15:06 Creating executer
+agent65: 2022/06/25 11:14:53 Starting main loop
+agent93: 2022/06/25 11:15:11 Connecting to coordinator
+agent5: 2022/06/25 11:15:35 Creating executer
+agent4: 2022/06/25 11:14:59 Starting main loop
+agent28: 2022/06/25 11:15:03 Connecting to coordinator
+agent73: 2022/06/25 11:15:06 Connecting to coordinator
+agent73: 2022/06/25 11:15:06 Starting main loop
+agent28: 2022/06/25 11:15:03 Starting main loop
+agent5: 2022/06/25 11:15:36 Connecting to coordinator
+agent93: 2022/06/25 11:15:11 Starting main loop
+agent5: 2022/06/25 11:15:36 Starting main loop
+agent79: 2022/06/25 11:14:58 Creating memory
+agent79: 2022/06/25 11:14:58 Creating executer
+agent79: 2022/06/25 11:14:58 Connecting to coordinator
+agent79: 2022/06/25 11:14:58 Starting main loop
+agent56: 2022/06/25 11:15:27 Creating memory
+agent56: 2022/06/25 11:15:27 Creating executer
+agent56: 2022/06/25 11:15:27 Connecting to coordinator
+agent56: 2022/06/25 11:15:27 Starting main loop
+agent3: 2022/06/25 11:15:29 Creating memory
+agent3: 2022/06/25 11:15:29 Creating executer
+agent3: 2022/06/25 11:15:30 Connecting to coordinator
+agent3: 2022/06/25 11:15:30 Starting main loop
+agent14: 2022/06/25 11:15:25 Creating memory
+agent14: 2022/06/25 11:15:25 Creating executer
+agent53: 2022/06/25 11:15:49 Creating memory
+agent14: 2022/06/25 11:15:25 Connecting to coordinator
+agent53: 2022/06/25 11:15:49 Creating executer
+agent14: 2022/06/25 11:15:25 Starting main loop
+agent53: 2022/06/25 11:15:49 Connecting to coordinator
+agent24: 2022/06/25 11:14:46 Creating memory
+agent53: 2022/06/25 11:15:49 Starting main loop
+agent24: 2022/06/25 11:14:46 Creating executer
+agent24: 2022/06/25 11:14:47 Connecting to coordinator
+agent80: 2022/06/25 11:15:10 Creating memory
+agent24: 2022/06/25 11:14:47 Starting main loop
+agent80: 2022/06/25 11:15:10 Creating executer
+agent80: 2022/06/25 11:15:10 Connecting to coordinator
+agent80: 2022/06/25 11:15:10 Starting main loop
+agent46: 2022/06/25 11:15:28 Creating memory
+agent46: 2022/06/25 11:15:28 Creating executer
+agent19: 2022/06/25 11:15:30 Creating memory
+agent19: 2022/06/25 11:15:30 Creating executer
+agent70: 2022/06/25 11:15:09 Creating memory
+agent70: 2022/06/25 11:15:09 Creating executer
+agent46: 2022/06/25 11:15:28 Connecting to coordinator
+agent19: 2022/06/25 11:15:30 Connecting to coordinator
+agent88: 2022/06/25 11:15:04 Creating memory
+agent95: 2022/06/25 11:15:16 Creating memory
+agent12: 2022/06/25 11:15:37 Creating memory
+agent70: 2022/06/25 11:15:10 Connecting to coordinator
+agent95: 2022/06/25 11:15:16 Creating executer
+agent88: 2022/06/25 11:15:04 Creating executer
+agent41: 2022/06/25 11:15:33 Creating memory
+agent19: 2022/06/25 11:15:30 Starting main loop
+agent70: 2022/06/25 11:15:10 Starting main loop
+agent60: 2022/06/25 11:15:41 Creating memory
+agent12: 2022/06/25 11:15:37 Creating executer
+agent88: 2022/06/25 11:15:04 Connecting to coordinator
+agent27: 2022/06/25 11:14:51 Creating memory
+agent60: 2022/06/25 11:15:41 Creating executer
+agent12: 2022/06/25 11:15:37 Connecting to coordinator
+agent88: 2022/06/25 11:15:04 Starting main loop
+agent60: 2022/06/25 11:15:42 Connecting to coordinator
+agent27: 2022/06/25 11:14:51 Creating executer
+agent12: 2022/06/25 11:15:37 Starting main loop
+agent7: 2022/06/25 11:15:04 Creating memory
+agent27: 2022/06/25 11:14:51 Connecting to coordinator
+agent46: 2022/06/25 11:15:28 Starting main loop
+agent60: 2022/06/25 11:15:42 Starting main loop
+agent7: 2022/06/25 11:15:04 Creating executer
+agent41: 2022/06/25 11:15:33 Creating executer
+agent27: 2022/06/25 11:14:51 Starting main loop
+agent41: 2022/06/25 11:15:33 Connecting to coordinator
+agent7: 2022/06/25 11:15:05 Connecting to coordinator
+agent7: 2022/06/25 11:15:05 Starting main loop
+agent41: 2022/06/25 11:15:33 Starting main loop
+agent95: 2022/06/25 11:15:16 Connecting to coordinator
+agent95: 2022/06/25 11:15:16 Starting main loop
+agent38: 2022/06/25 11:15:51 Connecting to coordinator
+coordinator: 2022/06/25 11:15:51 New agent connected from 172.23.0.102:43268
+agent38: 2022/06/25 11:15:51 Starting main loop
+agent0: DEBUG	[DEBUG] memberlist: Initiating push/pull sync with: 20e5e2d5-c93b-490e-8d05-3d42e5affe60 172.22.0.31:5000
