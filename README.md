@@ -22,6 +22,12 @@ Metrics with description:
 * `total packets`: Total packets sent in the network by all agents
 * `total bytes per seconds`: Like above, but divided by running time
 * `total packets per seconds`: Like above, but divided by running time
+* `logs_expected bytes` Sent bytes as reported in the logs
+* `logs_actual bytes` Sent bytes as measured by the system
+* `logs_expected packets` Sent packets as reported in the logs
+* `logs_actual packets` Sent packets as measured by the system
+* `logs_bytes ratio` actual/expected bytes
+* `logs_packets ratio` actual/expected packets
 
 ## Usage
 
