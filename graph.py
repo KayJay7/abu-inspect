@@ -175,7 +175,7 @@ def main():
     for metric in logs_data:
         plt.clf()
         plt.boxplot(logs_data[metric], labels = logs_labels)
-        plt.title(metric)
+        plt.title(f"logs_{metric}")
         plt.autoscale()
         plt.savefig(f"graphs/logs_{metric}.png", dpi=300)
 
