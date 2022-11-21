@@ -161,9 +161,11 @@ def write_data_csv(data, labels, prefix):
             write_table_csv(writer_totals, total_metrics, totals)
 
 def main():
+
     data = collect_data()
     for metric in data:
         plt.clf()
+        plt.xticks(rotation=-45, ha='left')
         plt.boxplot(data[metric], labels = all_labels, )
         plt.title(metric)
         plt.autoscale()
@@ -174,6 +176,7 @@ def main():
     logs_data = digest_logs()
     for metric in logs_data:
         plt.clf()
+        plt.xticks(rotation=-45, ha='left')
         plt.boxplot(logs_data[metric], labels = logs_labels)
         plt.title(f"logs_{metric}")
         plt.autoscale()
